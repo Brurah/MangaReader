@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="MR_metro.Visualizador"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MR_metro"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.BottomAppBar>
+        <AppBar x:Name="bottomAppBar1" Padding="10,0,10,0" Background="#E559A5D1" >
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Button  Width="200" Height="40" Content="Fechar" Click="Button_Click"/>                    
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <FlipView Name="flpImgs" TabIndex="0" IsTabStop="True" SelectionChanged="flpImgs_SelectionChanged">
+            <FlipView.ItemTemplate>
+                <DataTemplate>
+                    <Image Source="{Binding}" />
+                </DataTemplate>
+            </FlipView.ItemTemplate>
+        </FlipView>
+        <TextBlock Name="NmT" Margin="20,20,0,0" FontSize="25" Opacity="0.5" />
+        <TextBlock Name="percent" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="20,0,0,20" FontSize="30" Opacity="0.5" Text="0%"/>
+    </Grid>
+</Page>
