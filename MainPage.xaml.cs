@@ -19,6 +19,13 @@ using System.Threading.Tasks;
 using Windows.UI.Xaml.Media.Imaging;
 using System.Net.Http;
 using System.Text.RegularExpressions;
+using Parse;
+using MR_metro.Parse;
+using Windows.ApplicationModel;
+using System.Text;
+using Windows.Storage.Streams;
+using MR_metro.Temp;
+using Newtonsoft.Json;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -302,6 +309,40 @@ namespace MR_metro
             Frame.Navigate(typeof(Visualizador), ip);
             //ContainerImg.Children.Add(vs);
 
+        }
+
+        private async void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            string parsedStream;
+            StorageFolder tempFolder = ApplicationData.Current.LocalFolder;
+            StorageFile file = await tempFolder.GetFileAsync("pontos.json");
+
+            var buffer = await FileIO.ReadBufferAsync(file);
+            using (var dr = DataReader.FromBuffer(buffer))
+            {
+                var bytes1251 = new Byte[buffer.Length];
+                dr.ReadBytes(bytes1251);
+
+                parsedStream = Encoding.GetEncoding("ISO-8859-1").GetString(bytes1251, 0, bytes1251.Length);
+            }
+            JsonClass lm = JsonConvert.DeserializeObject<JsonClass>(parsedStream);
+
+            List<Pluviometro> lstUp = new List<Pluviometro>();
+
+            foreach (Placemark item in lm.Placemark)
+            {
+                Pluviometro pv = new Pluviometro();
+                string[] str = item.name.Split('-');
+                string[] strRaio = item.LookAt.range.Split('.');
+                pv.idEstacao = Convert.ToInt32(str[0].Substring(str[0].Length - 2));
+                pv.nomeLocal = str[1];
+                pv.raio = Convert.ToInt32(strRaio[0]);
+                pv.latLng = new ParseGeoPoint(Convert.ToDouble(item.LookAt.latitude), Convert.ToDouble(item.LookAt.longitude));
+
+                lstUp.Add(pv);
+            }
+
+            await lstUp.SaveAllAsync();
         }       
     }
 }

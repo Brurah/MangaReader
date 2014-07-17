@@ -1,4 +1,6 @@
 ﻿using MR_metro.Class;
+using MR_metro.Parse;
+using Parse;
 using SQLite;
 using System;
 using System.Collections.Generic;
@@ -38,6 +40,9 @@ namespace MR_metro
 
             this.InitializeComponent();
             this.Suspending += OnSuspending;
+
+            ParseObject.RegisterSubclass<Pluviometro>();
+            ParseClient.Initialize("oo76CF8zV8dU6Pf1AXMS7bUZU2PhpFRyADtrJrtW", "bmXlG4hl5ljN5dLr263RNM5nAHlwF4Q78Lhvb67m");
         }
 
         /// <summary>

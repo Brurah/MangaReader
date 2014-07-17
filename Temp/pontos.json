@@ -1,0 +1,1757 @@
+{
+  "kml": {
+    "-xmlns": "http://www.opengis.net/kml/2.2",
+    "-xmlns:gx": "http://www.google.com/kml/ext/2.2",
+    "-xmlns:kml": "http://www.opengis.net/kml/2.2",
+    "-xmlns:atom": "http://www.w3.org/2005/Atom",
+    "Document": {
+      "name": "Estações de monitoramento GeoRio.kmz",
+      "StyleMap": [
+        {
+          "-id": "inline",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline82"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline1"
+            }
+          ]
+        },
+        {
+          "-id": "inline4",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline6"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline17"
+            }
+          ]
+        },
+        {
+          "-id": "inline8",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline56"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline94"
+            }
+          ]
+        },
+        {
+          "-id": "inline10",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline93"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline11"
+            }
+          ]
+        },
+        {
+          "-id": "inline12",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline79"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline55"
+            }
+          ]
+        },
+        {
+          "-id": "inline13",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline43"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline67"
+            }
+          ]
+        },
+        {
+          "-id": "inline15",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline97"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline30"
+            }
+          ]
+        },
+        {
+          "-id": "inline16",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline76"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline75"
+            }
+          ]
+        },
+        {
+          "-id": "inline19",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline2"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline31"
+            }
+          ]
+        },
+        {
+          "-id": "inline20",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline27"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline35"
+            }
+          ]
+        },
+        {
+          "-id": "inline24",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline95"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline28"
+            }
+          ]
+        },
+        {
+          "-id": "inline33",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline71"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline48"
+            }
+          ]
+        },
+        {
+          "-id": "inline34",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline0"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline40"
+            }
+          ]
+        },
+        {
+          "-id": "inline36",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline77"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline72"
+            }
+          ]
+        },
+        {
+          "-id": "inline37",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline69"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline23"
+            }
+          ]
+        },
+        {
+          "-id": "inline38",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline22"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline21"
+            }
+          ]
+        },
+        {
+          "-id": "inline46",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline58"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline83"
+            }
+          ]
+        },
+        {
+          "-id": "inline52",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline51"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline62"
+            }
+          ]
+        },
+        {
+          "-id": "inline53",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline7"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline81"
+            }
+          ]
+        },
+        {
+          "-id": "inline54",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline14"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline41"
+            }
+          ]
+        },
+        {
+          "-id": "inline57",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline47"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline39"
+            }
+          ]
+        },
+        {
+          "-id": "inline59",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline96"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline80"
+            }
+          ]
+        },
+        {
+          "-id": "inline63",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline45"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline60"
+            }
+          ]
+        },
+        {
+          "-id": "inline65",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline26"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline68"
+            }
+          ]
+        },
+        {
+          "-id": "inline66",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline5"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline73"
+            }
+          ]
+        },
+        {
+          "-id": "inline70",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline42"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline61"
+            }
+          ]
+        },
+        {
+          "-id": "inline74",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline85"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline18"
+            }
+          ]
+        },
+        {
+          "-id": "inline78",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline84"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline49"
+            }
+          ]
+        },
+        {
+          "-id": "inline86",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline32"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline3"
+            }
+          ]
+        },
+        {
+          "-id": "inline87",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline29"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline64"
+            }
+          ]
+        },
+        {
+          "-id": "inline90",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline25"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline89"
+            }
+          ]
+        },
+        {
+          "-id": "inline91",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline9"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline44"
+            }
+          ]
+        },
+        {
+          "-id": "inline92",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#inline50"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#inline88"
+            }
+          ]
+        },
+        {
+          "-id": "msn_cross-hairs4",
+          "Pair": [
+            {
+              "key": "normal",
+              "styleUrl": "#sn_cross-hairs29"
+            },
+            {
+              "key": "highlight",
+              "styleUrl": "#sh_cross-hairs_highlight201"
+            }
+          ]
+        }
+      ],
+      "Style": [
+        {
+          "-id": "inline0",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline1",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline2",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline3",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline5",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline6",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline7",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline9",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline11",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline14",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline17",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline18",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline21",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline22",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline23",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline25",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline26",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline27",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline28",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline29",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline30",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline31",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline32",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline35",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline39",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline40",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline41",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline42",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline43",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline44",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline45",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline47",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline48",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline49",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline50",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline51",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline55",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline56",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline58",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "sh_cross-hairs_highlight201",
+          "IconStyle": {
+            "scale": "1.3",
+            "Icon": { "href": "http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png" },
+            "hotSpot": {
+              "-x": "20",
+              "-y": "2",
+              "-xunits": "pixels",
+              "-yunits": "pixels"
+            }
+          }
+        },
+        {
+          "-id": "inline60",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline61",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline62",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline64",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline67",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline68",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline69",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline71",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline72",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline73",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline75",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline76",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline77",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline79",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline80",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline81",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline82",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline83",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline84",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline85",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline88",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline89",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "sn_cross-hairs29",
+          "IconStyle": {
+            "scale": "1.1",
+            "Icon": { "href": "http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png" },
+            "hotSpot": {
+              "-x": "20",
+              "-y": "2",
+              "-xunits": "pixels",
+              "-yunits": "pixels"
+            }
+          }
+        },
+        {
+          "-id": "inline93",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline94",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline95",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline96",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        },
+        {
+          "-id": "inline97",
+          "LineStyle": {
+            "color": "ff0000ff",
+            "width": "2"
+          }
+        }
+      ],
+      "Folder": [
+        {
+          "name": "Estações GeoRio",
+          "Placemark": [
+            {
+              "name": "Estação 01-Vidigal",
+              "LookAt": {
+                "longitude": "-43.23330555555556",
+                "latitude": "-22.99219444444445",
+                "altitude": "0",
+                "heading": "7.168235225831881e-007",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.23330555555556,-22.99219444444445,0" }
+            },
+            {
+              "name": "Estação 02-Urca",
+              "LookAt": {
+                "longitude": "-43.16677777777777",
+                "latitude": "-22.95586111111111",
+                "altitude": "0",
+                "heading": "7.168235146318014e-007",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.16677777777777,-22.95586111111111,0" }
+            },
+            {
+              "name": "Estação 03-Rocinha",
+              "LookAt": {
+                "longitude": "-43.245",
+                "latitude": "-22.98602777777778",
+                "altitude": "0",
+                "heading": "7.168235162220787e-007",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.245,-22.98602777777778,0" }
+            },
+            {
+              "name": "Estação 04-Tijuca",
+              "LookAt": {
+                "longitude": "-43.22180555555556",
+                "latitude": "-22.93194444444445",
+                "altitude": "0",
+                "heading": "0.000397425908525995",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.22180555555556,-22.93194444444445,0" }
+            },
+            {
+              "name": "Estação 05-Santa Teresa",
+              "LookAt": {
+                "longitude": "-43.19638888888888",
+                "latitude": "-22.93172222222222",
+                "altitude": "0",
+                "heading": "0.06308894742768302",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.19638888888888,-22.93172222222222,0" }
+            },
+            {
+              "name": "Estação 06-Copacabana",
+              "LookAt": {
+                "longitude": "-43.18944444444444",
+                "latitude": "-22.98633333333333",
+                "altitude": "0",
+                "heading": "0.06369580576593963",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.18944444444444,-22.98633333333333,0" }
+            },
+            {
+              "name": "Estação 07-Grajaú",
+              "LookAt": {
+                "longitude": "-43.26761111111111",
+                "latitude": "-22.92211111111111",
+                "altitude": "0",
+                "heading": "0.06435979268410473",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.26761111111111,-22.92211111111111,0" }
+            },
+            {
+              "name": "Estação 08-Ilha do Governador",
+              "LookAt": {
+                "longitude": "-43.21041666666667",
+                "latitude": "-22.81802777777778",
+                "altitude": "0",
+                "heading": "0.06480669015398401",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.21041666666667,-22.81802777777778,0" }
+            },
+            {
+              "name": "Estação 09-Penha",
+              "LookAt": {
+                "longitude": "-43.27536111111111",
+                "latitude": "-22.84444444444445",
+                "altitude": "0",
+                "heading": "0.06344711624954946",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.27536111111111,-22.84444444444444,0" }
+            },
+            {
+              "name": "Estação 10-Madureira",
+              "LookAt": {
+                "longitude": "-43.33902777777778",
+                "latitude": "-22.87327777777778",
+                "altitude": "0",
+                "heading": "0.06415758096389171",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.33902777777778,-22.87327777777778,0" }
+            },
+            {
+              "name": "Estação 11-Irajá",
+              "LookAt": {
+                "longitude": "-43.33708333333333",
+                "latitude": "-22.82683333333333",
+                "altitude": "0",
+                "heading": "0.06360340125393915",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.33708333333333,-22.82683333333333,0" }
+            },
+            {
+              "name": "Estação 12-Bangu",
+              "LookAt": {
+                "longitude": "-43.46591666666667",
+                "latitude": "-22.88033333333333",
+                "altitude": "0",
+                "heading": "-0.0001330047280007027",
+                "tilt": "0",
+                "range": "300.0000784262182",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.46591666666667,-22.88033333333333,0" }
+            },
+            {
+              "name": "Estação 13-Piedade",
+              "LookAt": {
+                "longitude": "-43.30733333333333",
+                "latitude": "-22.89305555555556",
+                "altitude": "0",
+                "heading": "4.184476891381642e-005",
+                "tilt": "0",
+                "range": "299.1369144406569",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.30733333333333,-22.89305555555556,0" }
+            },
+            {
+              "name": "Estação 14-Jacarepaguá/Tanque",
+              "LookAt": {
+                "longitude": "-43.36475",
+                "latitude": "-22.91241666666667",
+                "altitude": "0",
+                "heading": "-0.0004111843388985132",
+                "tilt": "0",
+                "range": "299.5744069011196",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.36475,-22.91241666666667,0" }
+            },
+            {
+              "name": "Estação 15-Saúde",
+              "LookAt": {
+                "longitude": "-43.19452777777777",
+                "latitude": "-22.89794444444445",
+                "altitude": "0",
+                "heading": "0",
+                "tilt": "0",
+                "range": "300",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.19452777777777,-22.89794444444446,0" }
+            },
+            {
+              "name": "Estação 16-Jardim Botanico",
+              "LookAt": {
+                "longitude": "-43.224",
+                "latitude": "-22.97269444444444",
+                "altitude": "0",
+                "heading": "0.005119057446875253",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.224,-22.97269444444444,0" }
+            },
+            {
+              "name": "Estação 17-Barra/Barrinha",
+              "LookAt": {
+                "longitude": "-43.30219444444444",
+                "latitude": "-22.99833333333334",
+                "altitude": "0",
+                "heading": "0",
+                "tilt": "0",
+                "range": "300",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.299643,-23.008231,0" }
+            },
+            {
+              "name": "Estação 18-Jacarepaguá/Cidade de Deus",
+              "LookAt": {
+                "longitude": "-43.36277777777778",
+                "latitude": "-22.94563888888889",
+                "altitude": "0",
+                "heading": "0.06645763465859667",
+                "tilt": "0",
+                "range": "300.000134373809",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.36277777777778,-22.94563888888889,0" }
+            },
+            {
+              "name": "Estação 19-Barra/Riocentro",
+              "LookAt": {
+                "longitude": "-43.41036111111111",
+                "latitude": "-22.98022222222222",
+                "altitude": "0",
+                "heading": "0.06645763464926809",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.41036111111111,-22.98022222222222,0" }
+            },
+            {
+              "name": "Estação 20-Guaratiba",
+              "LookAt": {
+                "longitude": "-43.59477777777778",
+                "latitude": "-23.05036111111111",
+                "altitude": "0",
+                "heading": "0",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.59477777777778,-23.05036111111111,0" }
+            },
+            {
+              "name": "Estação 21-Estr. Grajaú-Jacarepaguá",
+              "LookAt": {
+                "longitude": "-43.31569444444444",
+                "latitude": "-22.92561111111111",
+                "altitude": "0",
+                "heading": "0",
+                "tilt": "0",
+                "range": "300",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.31569444444444,-22.92561111111111,0" }
+            },
+            {
+              "name": "Estação 22-Santa Cruz",
+              "LookAt": {
+                "longitude": "-43.68455555555556",
+                "latitude": "-22.91019444444444",
+                "altitude": "0",
+                "heading": "-0.0003369345043038786",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.68455555555556,-22.91019444444444,0" }
+            },
+            {
+              "name": "Estação 23-Grande Méier",
+              "LookAt": {
+                "longitude": "-43.27797222222223",
+                "latitude": "-22.89061111111111",
+                "altitude": "0",
+                "heading": "-0.1415407771693904",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.27797222222223,-22.89061111111111,0" }
+            },
+            {
+              "name": "Estação 24-Anchieta",
+              "LookAt": {
+                "longitude": "-43.40361111111111",
+                "latitude": "-22.82727777777778",
+                "altitude": "0",
+                "heading": "-8.117376387431792e-005",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.40361111111111,-22.82727777777778,0" }
+            },
+            {
+              "name": "Estação 25-Grota Funda",
+              "LookAt": {
+                "longitude": "-43.51961111111111",
+                "latitude": "-23.01433333333333",
+                "altitude": "0",
+                "heading": "0.1005354234034841",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.51961111111111,-23.01433333333334,0" }
+            },
+            {
+              "name": "Estação 26-Campo Grande",
+              "LookAt": {
+                "longitude": "-43.56186111111111",
+                "latitude": "-22.9035",
+                "altitude": "0",
+                "heading": "-0.000154553925217289",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.56186111111111,-22.90349999999999,0" }
+            },
+            {
+              "name": "Estação 27-Sepetiba",
+              "LookAt": {
+                "longitude": "-43.71161111111111",
+                "latitude": "-22.96872222222222",
+                "altitude": "0",
+                "heading": "0.2133184440663246",
+                "tilt": "0",
+                "range": "300",
+                "altitudeMode": "relativeToGround"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.71161111111111,-22.96872222222222,0" }
+            },
+            {
+              "name": "Estação 28-Alto da Boa Vista",
+              "LookAt": {
+                "longitude": "-43.27836111111111",
+                "latitude": "-22.96594444444444",
+                "altitude": "0",
+                "heading": "0.08238226898414854",
+                "tilt": "0",
+                "range": "300",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.27836111111111,-22.96594444444445,0" }
+            },
+            {
+              "name": "Estação 29-Av. Brasil/Mendanha",
+              "LookAt": {
+                "longitude": "-43.54106208144044",
+                "latitude": "-22.85711467584542",
+                "altitude": "0",
+                "heading": "0.1504764115159405",
+                "tilt": "0",
+                "range": "200.0000401129916",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.54119444444444,-22.85708333333334,0" }
+            },
+            {
+              "name": "Estação 30-Recreio dos Bandeirantes",
+              "LookAt": {
+                "longitude": "-43.44044444444444",
+                "latitude": "-23.00997222222222",
+                "altitude": "0",
+                "heading": "0",
+                "tilt": "0",
+                "range": "300",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.44044444444444,-23.00997222222222,0" }
+            },
+            {
+              "name": "Estação 31-Laranjeiras",
+              "LookAt": {
+                "longitude": "-43.18761111111111",
+                "latitude": "-22.94052777777778",
+                "altitude": "0",
+                "heading": "-3.046440278487458e-005",
+                "tilt": "0",
+                "range": "300"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.18761111111111,-22.94052777777778,0" }
+            },
+            {
+              "name": "Estação 32-São Cristóvão",
+              "LookAt": {
+                "longitude": "-43.22175",
+                "latitude": "-22.89666666666667",
+                "altitude": "0",
+                "heading": "0.06246066257489286",
+                "tilt": "0",
+                "range": "300",
+                "altitudeMode": "relativeToGround"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": { "coordinates": "-43.22175,-22.89666666666666,0" }
+            },
+            {
+              "name": "Estação 33-Tijuca/Muda",
+              "LookAt": {
+                "longitude": "-43.24328584503581",
+                "latitude": "-22.93277258596911",
+                "altitude": "0",
+                "heading": "-23.69623817543748",
+                "tilt": "0",
+                "range": "127.1372158326907",
+                "gx:altitudeMode": "relativeToSeaFloor"
+              },
+              "styleUrl": "#msn_cross-hairs4",
+              "Point": {
+                "altitudeMode": "absolute",
+                "coordinates": "-43.243322,-22.932722,30.80174206105581"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Raio de acionamento",
+          "Placemark": [
+            {
+              "name": "01 - Vidigal",
+              "open": "1",
+              "styleUrl": "#inline86",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.23142521210202,-22.95591699714628,0 -43.22801471548139,-22.95619317076432,0 -43.22464331310068,-22.95674192562633,0 -43.22133664381094,-22.95755908866023,-7.081154781429788e-010 -43.21811985533893,-22.95863844555829,0 -43.21501741344437,-22.95997178792628,0 -43.21205291620448,-22.96154897556761,-7.081154781429788e-010 -43.20924891482453,-22.96335801343372,0 -43.20662674232585,-22.96538514266188,0 -43.20420635140536,-22.9676149450154,-7.081154781429788e-010 -43.20200616269415,-22.97003045993922,0 -43.20004292456647,-22.97261331334916,0 -43.19833158556599,-22.97534385718308,-7.081154781429788e-010 -43.19688518042334,-22.97820131866085,-7.081154781429788e-010 -43.19571473053915,-22.98116395812534,-7.081154781429788e-010 -43.1948291596991,-22.98420923427086,0 -43.19423522567486,-22.98731397550838,-7.081154781429788e-010 -43.19393746824618,-22.99045455616904,0 -43.19393817405596,-22.99360707620941,0 -43.19423735858415,-22.99674754305393,0 -43.19483276539641,-22.99985205419217,0 -43.19571988269244,-23.00289697914134,0 -43.19689197704711,-23.00585913938765,0 -43.19834014410583,-23.00871598493416,0 -43.20005337586508,-23.011445766107,-7.081154781429788e-010 -43.20201864404076,-23.01402769930688,0 -43.20422099890268,-23.01644212543749,0 -43.20664368283259,-23.01867065979747,0 -43.20926825774814,-23.02069633228683,-7.081154781429788e-010 -43.21207474542688,-23.02250371685198,0 -43.21504177966186,-23.02407904917532,-7.081154781429788e-010 -43.21814676908807,-23.02541033170488,0 -43.22136606943371,-23.02648742521636,0 -43.2246751638756,-23.02730212620292,0 -43.22804885011398,-23.02784822949691,-7.081154781429788e-010 -43.23146143272801,-23.02812157564123,0 -43.23488691933098,-23.02812008264525,-7.081154781429788e-010 -43.23829921901449,-23.02784376188069,0 -43.24167234155197,-23.02729471799476,0 -43.24498059582623,-23.02647713284137,0 -43.24819878595153,-23.02539723355418,0 -43.25130240357964,-23.02406324500762,0 -43.25426781490926,-23.02248532703214,0 -43.25707244096099,-23.02067549686711,-7.081154781429788e-010 -43.2596949297332,-23.01864753744888,-7.081154781429788e-010 -43.26211531891922,-23.01641689223907,0 -43.26431518794067,-23.01400054740248,-7.081154781429788e-010 -43.26627779813697,-23.01141690223979,0 -43.26798822004386,-23.00868562887012,0 -43.26943344679616,-23.00582752224015,0 -43.27060249279805,-23.00286434160964,0 -43.27148647692008,-22.99981864472731,-7.081154781429788e-010 -43.2720786896022,-22.99671361596604,-7.081154781429788e-010 -43.27237464336672,-22.99357288973098,0 -43.27237210637412,-22.99042037048872,0 -43.27207111878396,-22.98728005079062,-7.081154781429788e-010 -43.27147399181569,-22.98417582867608,0 -43.27058528953562,-22.98113132584611,0 -43.26941179352785,-22.97816970798861,0 -43.2679624507354,-22.97531350862035,0 -43.26624830488593,-22.97258445778139,-7.081154781429788e-010 -43.2642824120377,-22.97000331688021,-7.081154781429788e-010 -43.26207974090131,-22.96758972093955,0 -43.25965705870491,-22.96536202943587,0 -43.25703280347818,-22.96333718685938,-7.081154781429788e-010 -43.25422694373008,-22.96153059404721,-7.081154781429788e-010 -43.25126082658818,-22.95995599125991,0 -43.24815701555215,-22.95862535388287,-7.081154781429788e-010 -43.24493911908898,-22.95754880153774,0 -43.24163161136563,-22.95673452128827,0 -43.23825964647012,-22.95618870551822,0 -43.23484886752119,-22.95591550494843,0 -43.23142521210202,-22.95591699714628,0 
+				"
+              }
+            },
+            {
+              "name": "02 - Urca",
+              "open": "1",
+              "styleUrl": "#inline34",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.20487487468517,-22.96276683819961,0 -43.20539087320825,-22.95967081523681,0 -43.2056118394555,-22.95654516402465,-7.081154781429788e-010 -43.20553611211512,-22.95341367387328,-7.081154781429788e-010 -43.20516428803852,-22.95030017688334,0 -43.20449921707451,-22.94722836658295,0 -43.20354597977164,-22.94422161766885,0 -43.20231184813692,-22.94130280822172,0 -43.20080622976688,-22.93849414574533,0 -43.19904059579223,-22.93581699834866,0 -43.19702839319804,-22.93329173234993,0 -43.19478494219849,-22.93093755753154,0 -43.19232731945553,-22.92877238121577,0 -43.18967422803582,-22.92681267226369,0 -43.1868458550982,-22.92507333602347,0 -43.18386371839353,-22.92356760117147,0 -43.18075050274111,-22.92230691929839,0 -43.17752988771899,-22.92130087799722,0 -43.17422636786914,-22.92055712810667,-7.081154781429788e-010 -43.17086506677322,-22.92008132565772,0 -43.16747154639894,-22.91987708895985,0 -43.16407161315136,-22.91994597114933,0 -43.16069112208699,-22.92028744840616,-7.081154781429788e-010 -43.15735578076256,-22.92089892392806,0 -43.15409095419204,-22.92177574763177,0 -43.15092147237818,-22.92291125143338,0 -43.14787144186599,-22.9242967998428,0 -43.14496406273634,-22.92592185549161,0 -43.14222145241864,-22.92777405910176,0 -43.13966447765216,-22.92983932329313,0 -43.13731259586562,-22.93210193952386,0 -43.13518370717702,-22.9345446973576,-7.081154781429788e-010 -43.13329401813729,-22.93714901515899,0 -43.13165791825537,-22.93989508123095,0 -43.1302878702487,-22.94276200432842,0 -43.12919431486112,-22.94572797241095,0 -43.12838559098288,-22.94877041843335,-7.081154781429788e-010 -43.12786787169335,-22.95186619191921,0 -43.12764511672788,-22.95499173501663,0 -43.12771904174753,-22.95812326170045,0 -43.12808910466345,-22.96123693876003,0 -43.12875250913877,-22.96430906719592,0 -43.12970422526035,-22.96731626264502,0 -43.13093702724146,-22.97023563345889,0 -43.13244154788639,-22.97304495507696,-7.081154781429788e-010 -43.13420634941833,-22.97572283936255,0 -43.13621801014556,-22.97824889760747,0 -43.13846122631824,-22.98060389595735,0 -43.14091892840962,-22.98276990206729,0 -43.14357241094209,-22.98473042186337,0 -43.14640147487309,-22.98647052536031,0 -43.14938458145633,-22.98797696056905,0 -43.15249901640323,-22.98923825461887,-7.081154781429788e-010 -43.1557210630881,-22.99024480131611,0 -43.15902618346861,-22.99098893446583,0 -43.16238920533177,-22.99146498639189,0 -43.16578451442521,-22.99166933120459,-7.081154781429788e-010 -43.16918624999448,-22.99160041248261,0 -43.17256850222041,-22.99125875515601,0 -43.1759055100342,-22.99064696149839,0 -43.17917185778642,-22.9897696912594,0 -43.18234266925397,-22.98863362609072,0 -43.18539379749102,-22.98724741853933,0 -43.18830200906286,-22.98562162600133,0 -43.19104516124674,-22.9837686301448,-7.081154781429788e-010 -43.19360237083915,-22.98170254242185,-7.081154781429788e-010 -43.19595417327632,-22.97943909639698,0 -43.19808267085129,-22.97699552771938,-7.081154781429788e-010 -43.19997166889698,-22.9743904426615,-7.081154781429788e-010 -43.2016067988999,-22.97164367623308,0 -43.20297562761203,-22.96877614095918,0 -43.20406775133711,-22.9658096674809,0 -43.20487487468517,-22.96276683819961,0 
+				"
+              }
+            },
+            {
+              "name": "03 - Rocinha",
+              "open": "1",
+              "styleUrl": "#inline10",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.25954478499411,-22.95245400488531,0 -43.25632219285466,-22.95140373003687,0 -43.25301249783262,-22.95061601580012,0 -43.24964087055252,-22.95009685252953,0 -43.24623295151316,-22.94985018826492,0 -43.24281465654311,-22.94987789877865,0 -43.23941198018675,-22.95017977334506,0 -43.23605079849922,-22.95075351633912,0 -43.23275667273157,-22.95159476465229,0 -43.22955465538156,-22.95269712079472,0 -43.22646910006866,-22.95405220143501,0 -43.22352347666372,-22.95564970101249,0 -43.22074019306573,-22.9574774699439,0 -43.21814042497042,-22.95952160683572,0 -43.21574395491648,-22.9617665640083,-7.081154781429788e-010 -43.21356902182852,-22.96419526553683,0 -43.21163218219844,-22.96678923691954,0 -43.20994818396201,-22.96952874539486,0 -43.20852985403414,-22.97239294984864,0 -43.20738800036542,-22.97536005917845,0 -43.20653132927497,-22.97840749791737,-7.081154781429788e-010 -43.20596637870136,-22.98151207786353,-7.081154781429788e-010 -43.20569746789431,-22.98465017441472,-7.081154781429788e-010 -43.20572666394655,-22.9877979062705,-7.081154781429788e-010 -43.20605376543885,-22.99093131713682,0 -43.20667630334162,-22.99402655805209,0 -43.20758955918504,-22.99706006894669,0 -43.2087866003788,-23.00000875805274,0 -43.21025833243034,-23.00285017779541,-7.081154781429788e-010 -43.21199356768078,-23.0055626958228,-7.081154781429788e-010 -43.21397911005008,-23.00812565986689,0 -43.2161998551588,-23.01051955517403,0 -43.21863890507366,-23.01272615329911,0 -43.22127769681034,-23.01472865112271,0 -43.22409614361848,-23.01651179902423,0 -43.22707278797331,-23.01806201722697,0 -43.23018496510638,-23.01936749942073,0 -43.23340897582332,-23.02041830286501,0 -43.23672026728422,-23.02120642427965,0 -43.24009362035753,-23.02172586093833,-7.081154781429788e-010 -43.24350334210698,-23.02197265649441,-7.081154781429788e-010 -43.24692346192963,-23.0219449311863,0 -43.25032792983375,-23.02164289618921,-7.081154781429788e-010 -43.25369081532889,-23.02106885200276,-7.081154781429788e-010 -43.25698650539469,-23.02022717088708,0 -43.26018990000296,-23.01912426348251,0 -43.26327660368687,-23.01776852987032,0 -43.26622311168295,-23.01617029545138,0 -43.26900698921436,-23.01434173213676,0 -43.27160704253906,-23.01229676545692,-7.081154781429788e-010 -43.27400348045183,-23.01005096830422,0 -43.27617806500471,-23.00762144212579,-7.081154781429788e-010 -43.27811425029591,-23.00502668648004,0 -43.27979730827144,-23.0022864579579,-7.081154781429788e-010 -43.28121444058574,-22.99942161955179,0 -43.28235487567714,-22.99645398162646,-7.081154781429788e-010 -43.28320995032925,-22.9934061357099,0 -43.28377317511044,-22.99030128237589,0 -43.28404028320831,-22.98716305453331,0 -43.28400926230448,-22.9840153374719,0 -43.28368036926533,-22.98088208703614,0 -43.28305612755567,-22.97778714731305,0 -43.28214130741456,-22.97475406922066,0 -43.28094288896269,-22.97180593137642,0 -43.27947000853992,-22.96896516460535,0 -43.27773388869782,-22.96625338141914,0 -43.27574775239432,-22.96369121175806,0 -43.2735267220553,-22.96129814623884,0 -43.27108770428061,-22.95909238809389,0 -43.2684492610781,-22.9570907149203,0 -43.26563146860813,-22.95530835128205,-7.081154781429788e-010 -43.26265576451375,-22.95375885312642,0 -43.25954478499411,-22.95245400488531,0 
+				"
+              }
+            },
+            {
+              "name": "04 - Tijuca",
+              "open": "1",
+              "styleUrl": "#inline19",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.24783904136042,-22.90498150314314,0 -43.24520278845849,-22.90298471038066,0 -43.24238771493175,-22.90120711752524,-7.081154781429788e-010 -43.23941523773348,-22.89966224426783,0 -43.23630796852827,-22.89836183989357,-7.081154781429788e-010 -43.2330895419281,-22.89731579410915,0 -43.22978443603109,-22.89653206199316,-7.081154781429788e-010 -43.22641778661591,-22.89601660363365,-7.081154781429788e-010 -43.22301519639154,-22.89577333890746,-7.081154781429788e-010 -43.2196025407374,-22.89580411774054,0 -43.21620577139412,-22.89610870607335,0 -43.21285071958072,-22.89668478763657,0 -43.2095629000173,-22.89752798152377,-7.081154781429788e-010 -43.20636731732645,-22.8986318754291,0 -43.20328827626887,-22.89998807430001,0 -43.20034919724146,-22.90158626403939,0 -43.19757243842764,-22.9034142897779,0 -43.19497912594129,-22.90545824812759,0 -43.19258899324826,-22.90770259272243,0 -43.19042023108088,-22.91013025225064,-7.081154781429788e-010 -43.18848934898497,-22.91272276008921,0 -43.18681104955319,-22.9154603945628,0 -43.18539811630537,-22.91832232876807,0 -43.18426131607611,-22.92128678883136,0 -43.18340931666186,-22.92433121940294,-7.081154781429788e-010 -43.18284862036687,-22.92743245513479,0 -43.18258351396857,-22.93056689684248,0 -43.18261603549942,-22.93371069101485,-7.081154781429788e-010 -43.18294595811639,-22.93683991130802,0 -43.18357079119933,-22.93993074064396,-7.081154781429788e-010 -43.18448579868936,-22.94295965252773,-7.081154781429788e-010 -43.18568403454594,-22.94590359020164,0 -43.18715639507121,-22.94874014226992,0 -43.18889168771932,-22.95144771345268,0 -43.19087671588211,-22.95400568916395,0 -43.19309637901747,-22.95639459265433,-7.081154781429788e-010 -43.19553378736819,-22.95859623351476,-7.081154781429788e-010 -43.19817039040425,-22.96059384640276,0 -43.20098611801416,-22.96237221892662,0 -43.20395953337071,-22.96391780770556,0 -43.20706799630384,-22.96521884171366,0 -43.21028783593074,-22.96626541211311,-7.081154781429788e-010 -43.21359453121924,-22.96704954788518,-7.081154781429788e-010 -43.21696289809776,-22.96756527667685,0 -43.22036728167301,-22.96780867039438,0 -43.22378175207548,-22.96777787519246,0 -43.22718030242429,-22.96747312562799,0 -43.23053704738544,-22.96689674286926,-7.081154781429788e-010 -43.23382642079334,-22.96605311697435,0 -43.23702337081262,-22.96494867337549,-7.081154781429788e-010 -43.24010355113698,-22.96359182382738,0 -43.24304350675347,-22.96199290219764,-7.081154781429788e-010 -43.24582085284402,-22.96016408559376,0 -43.24841444545064,-22.95811930143373,-7.081154781429788e-010 -43.25080454259623,-22.95587412117542,0 -43.25297295462858,-22.95344564152181,0 -43.25490318264058,-22.95085235401502,0 -43.25658054391365,-22.94811400402018,0 -43.2579922834334,-22.94525144018138,-7.081154781429788e-010 -43.25912767063612,-22.94228645550336,0 -43.25997808065942,-22.93924162127599,0 -43.26053705949184,-22.93614011511218,-7.081154781429788e-010 -43.2608003725402,-22.93300554441325,0 -43.26076603626198,-22.92986176660969,0 -43.26043433264039,-22.92673270754806,-7.081154781429788e-010 -43.25980780641041,-22.92364217940742,0 -43.25889124507634,-22.92061369953107,0 -43.25769164189146,-22.91767031155039,0 -43.25621814209922,-22.914834410159,0 -43.25448197286148,-22.91212757086631,0 -43.25249635742122,-22.90957038602022,0 -43.25027641416465,-22.9071823083401,0 -43.24783904136042,-22.90498150314314,0 
+				"
+              }
+            },
+            {
+              "name": "05 - Santa Teresa",
+              "open": "1",
+              "styleUrl": "#inline54",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.23240718845574,-22.9450769831881,0 -43.23355355196747,-22.94212325796503,-7.081154781429788e-010 -43.23441596213129,-22.93908875912976,0 -43.23498787343943,-22.93599658568572,0 -43.23526495272782,-22.93287027406833,0 -43.23524511156322,-22.92973361892405,0 -43.23492852152016,-22.92661049197283,0 -43.23431761225005,-22.92352466033404,0 -43.23341705237639,-22.92049960569847,0 -43.23223371338001,-22.91755834572076,0 -43.23077661676667,-22.91472325898852,0 -43.22905686493583,-22.9120159148957,0 -43.22708755629037,-22.90945690970924,0 -43.22488368524589,-22.90706571006994,0 -43.22246202790888,-22.90486050511085,-7.081154781429788e-010 -43.21984101430101,-22.9028580683105,0 -43.21704058810407,-22.90107363012374,-7.081154781429788e-010 -43.21408205499294,-22.89952076235081,-7.081154781429788e-010 -43.21098792070753,-22.89821127511621,0 -43.20778172008904,-22.89715512723319,0 -43.20448783837191,-22.8963603506287,0 -43.20113132607975,-22.89583298939725,0 -43.19773770891871,-22.89557705394223,0 -43.1943327940991,-22.89559449054925,0 -43.1909424745415,-22.89588516662029,-7.081154781429788e-010 -43.18759253243864,-22.89644687167974,0 -43.18430844364946,-22.89727533414453,-7.081154781429788e-010 -43.18111518439542,-22.89836425373254,0 -43.17803704171255,-22.89970534926555,0 -43.17509742908563,-22.90128842150736,-7.081154781429788e-010 -43.17231870865339,-22.90310143056459,0 -43.16972202132563,-22.90513058726761,0 -43.16732712609603,-22.90736045784381,0 -43.16515224976718,-22.90977408109474,-7.081154781429788e-010 -43.1632139482284,-22.91235309719396,0 -43.1615269803421,-22.91507788713395,0 -43.16010419540182,-22.91792772176945,0 -43.15895643502529,-22.92088091933109,-7.081154781429788e-010 -43.15809245023822,-22.92391501021804,-7.081154781429788e-010 -43.15751883439251,-22.9270069078222,0 -43.15723997244369,-22.93013308408937,-7.081154781429788e-010 -43.15725800699019,-22.93326974848564,0 -43.15757282135062,-22.93639302900996,-7.081154781429788e-010 -43.15818203982676,-22.9394791538767,0 -43.15908104516897,-22.9425046324855,0 -43.1602630131301,-22.94544643429953,0 -43.16171896386253,-22.94828216426777,0 -43.16343782978387,-22.9509902334519,0 -43.16540653940915,-22.95355002355342,0 -43.16761011652376,-22.95594204408232,0 -43.17003179395212,-22.95814808096325,0 -43.17265314106213,-22.96015133544012,0 -43.17545420403882,-22.96193655221342,0 -43.17841365785904,-22.96349013582593,-7.081154781429788e-010 -43.18150896880763,-22.96480025440271,0 -43.18471656629114,-22.96585692994748,0 -43.188012022632,-22.96665211450056,0 -43.19137023946248,-22.96717975157209,0 -43.19476563928487,-22.96743582237743,0 -43.19817236072354,-22.96741837651842,0 -43.20156445596467,-22.96712754687417,0 -43.20491608886222,-22.96656554858655,0 -43.20820173218329,-22.96573666214825,0 -43.21139636247273,-22.9646472007236,-7.081154781429788e-010 -43.21447565103632,-22.96330546195427,0 -43.21741614957223,-22.96172166462089,0 -43.2201954690239,-22.95990787064838,0 -43.22279245028063,-22.95787789305567,0 -43.22518732541794,-22.95564719055765,0 -43.22736186824372,-22.95323274963031,-7.081154781429788e-010 -43.22929953300205,-22.95065295494476,0 -43.23098558017878,-22.94792744916547,0 -43.23240718845574,-22.9450769831881,0 
+				"
+              }
+            },
+            {
+              "name": "06 - Copacabana",
+              "open": "1",
+              "styleUrl": "#inline57",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.22116777190933,-22.96536713481446,0 -43.21906751385107,-22.96289265248845,-7.081154781429788e-010 -43.21674109849597,-22.96059609673878,-7.081154781429788e-010 -43.21420623268863,-22.95849493625197,0 -43.21148220610873,-22.95660515266987,0 -43.20858974453196,-22.95494111924676,0 -43.20555085226844,-22.95351549173728,0 -43.20238864497222,-22.95233911233768,0 -43.19912717408627,-22.9514209274032,0 -43.19579124424752,-22.95076791956109,0 -43.19240622502811,-22.95038505472961,0 -43.18899785842999,-22.95027524444152,0 -43.18559206358018,-22.95043932375529,0 -43.18221474009539,-22.95087604491989,0 -43.17889157159285,-22.95158208684086,0 -43.17564783082467,-22.95255208027662,0 -43.17250818790001,-22.95377864857535,0 -43.16949652303777,-22.95525246364669,-7.081154781429788e-010 -43.16663574525958,-22.9569623167468,0 -43.16394761838962,-22.95889520354498,0 -43.16145259567484,-22.96103642283103,0 -43.15916966427654,-22.96336968812058,0 -43.15711620081206,-22.96587725131725,0 -43.15530783904452,-22.96854003749919,0 -43.1537583507295,-22.97133778981295,-7.081154781429788e-010 -43.15247954053066,-22.97424922338051,0 -43.15148115581197,-22.97725218705574,0 -43.15077081200465,-22.98032383180661,0 -43.15035393412987,-22.98344078444768,0 -43.15023371493827,-22.98657932540569,0 -43.15041109000236,-22.98971556916879,0 -43.15088472996936,-22.99282564604863,0 -43.15165105005295,-22.99588588387221,0 -43.15270423671051,-22.99887298822028,0 -43.1540362913212,-23.00176421983799,0 -43.15563709054977,-23.00453756786369,-7.081154781429788e-010 -43.15749446295245,-23.00717191755271,0 -43.15959428125495,-23.009647211213,0 -43.1619205696115,-23.01194460112069,-7.081154781429788e-010 -43.1644556250364,-23.01404659324383,0 -43.16718015208858,-23.01593718067168,0 -43.17007340978574,-23.01760196572553,0 -43.17311336962812,-23.01902826981281,0 -43.17627688352381,-23.02020523017977,0 -43.1795398603295,-23.02112388281875,0 -43.18287744965166,-23.02177723089154,0 -43.18626423149547,-23.02216029814212,0 -43.18967441030255,-23.02227016688732,0 -43.19308201188276,-23.02210600029249,0 -43.19646108172282,-23.02166904876065,0 -43.19978588314324,-23.02096264038586,0 -43.20303109377658,-23.01999215554423,0 -43.20617199885254,-23.01876498581868,0 -43.20918467980238,-23.01729047757368,0 -43.21204619673114,-23.01557986061477,-7.081154781429788e-010 -43.21473476335605,-23.01364616248218,0 -43.21722991306839,-23.01150410903805,0 -43.21951265484817,-23.00917001211225,0 -43.22156561783957,-23.00666164506999,0 -43.22337318348613,-23.00399810725758,-7.081154781429788e-010 -43.22492160422198,-23.00119967836632,0 -43.22619910782137,-22.99828766383173,0 -43.22719598662068,-22.99528423245229,0 -43.22790467094527,-22.992212247471,0 -43.22831978619652,-22.98909509241096,-7.081154781429788e-010 -43.22843819318011,-22.98595649299588,0 -43.22825901138655,-22.98282033651377,-7.081154781429788e-010 -43.22778362506514,-22.979710490001,0 -43.22701567206424,-22.976650618631,0 -43.22596101554183,-22.97366400568849,0 -43.22462769877982,-22.97077337549727,0 -43.22302588346328,-22.96800072064494,0 -43.22116777190933,-22.96536713481446,0 
+				"
+              }
+            },
+            {
+              "name": "07 - Grajaú",
+              "open": "1",
+              "styleUrl": "#inline38",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.23189105332305,-22.90737145676953,0 -43.23063755284737,-22.9102869654751,-7.081154781429788e-010 -43.22966463815239,-22.9132920057333,0 -43.22897973087941,-22.9163637125621,0 -43.22858806245786,-22.91947871215502,0 -43.22849263371826,-22.92261329965593,0 -43.22869419144694,-22.9257436195008,0 -43.22919122207923,-22.92884584695606,-7.081154781429788e-010 -43.22997996259834,-22.9318963694723,0 -43.23105442857524,-22.93487196647242,0 -43.23240645915521,-22.93774998620325,0 -43.23402577866492,-22.94050851830073,0 -43.23590007438709,-22.94312656075047,0 -43.23801508992345,-22.94558417996628,0 -43.24035473344656,-22.94786266276133,0 -43.2429012000237,-22.94994465904722,-7.081154781429788e-010 -43.24563510708675,-22.95181431416632,0 -43.24853564201793,-22.95345738984163,0 -43.25158072072642,-22.95486137281489,0 -43.25474715600292,-22.95601557033756,0 -43.25801083436308,-22.9569111917803,0 -43.26134690002196,-22.9575414157326,-7.081154781429788e-010 -43.26472994458566,-22.95790144207599,0 -43.26813420100056,-22.95798852862955,-7.081154781429788e-010 -43.27153374026629,-22.95780201208555,0 -43.27490266939689,-22.95734331307355,0 -43.27821532910447,-22.95661592531436,0 -43.28144648968164,-22.955625388947,0 -43.28457154357398,-22.95437924823459,0 -43.28756669315954,-22.95288699397479,-7.081154781429788e-010 -43.29040913229125,-22.95115999105854,0 -43.29307722020741,-22.94921139173471,0 -43.2955506464763,-22.94705603524825,0 -43.29781058571226,-22.9447103346237,0 -43.29983984088135,-22.94219215146434,0 -43.30162297410505,-22.93952065972848,0 -43.30314642396905,-22.93671619952852,0 -43.30439860844961,-22.93380012207368,0 -43.30537001268329,-22.93079462694437,0 -43.30605326092336,-22.92772259294363,0 -43.30644317214925,-22.92460740381888,0 -43.30653679892188,-22.92147277018509,-7.081154781429788e-010 -43.30633344920676,-22.91834254900799,0 -43.30583469101708,-22.91524056202321,-7.081154781429788e-010 -43.3050443398606,-22.91219041447356,0 -43.30396842910469,-22.909215315543,-7.081154781429788e-010 -43.30261516350294,-22.90633790185114,0 -43.30099485625419,-22.90358006534783,0 -43.29911985008774,-22.90096278691222,0 -43.29700442298831,-22.89850597691633,0 -43.29466467928857,-22.89622832395925,-7.081154781429788e-010 -43.29211842696505,-22.89414715291517,0 -43.28938504207594,-22.89227829336718,0 -43.28648532137305,-22.89063595941923,0 -43.28344132420739,-22.88923264179254,0 -43.28027620492605,-22.88807901301946,0 -43.27701403702758,-22.88718384644814,0 -43.27367963040229,-22.88655394966802,0 -43.2702983430351,-22.8861941128566,0 -43.26689588858814,-22.88610707243596,0 -43.2634981413098,-22.88629349031211,0 -43.26013093973737,-22.88675194885346,-7.081154781429788e-010 -43.25681989066774,-22.88747896164579,0 -43.25359017486986,-22.88846899994328,-7.081154781429788e-010 -43.25046635599922,-22.88971453461642,0 -43.24747219415231,-22.89120609328175,0 -43.24463046546423,-22.89293233218364,0 -43.24196278911028,-22.8948801222874,0 -43.23948946301709,-22.89703464893587,0 -43.23722930952657,-22.89937952431868,0 -43.23519953218275,-22.90189691190711,0 -43.23341558473013,-22.90456766191587,-7.081154781429788e-010 -43.23189105332305,-22.90737145676953,0 
+				"
+              }
+            },
+            {
+              "name": "08 - Ilha do Governador",
+              "open": "1",
+              "styleUrl": "#inline36",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.14997891960106,-22.77947473752054,0 -43.1465657178308,-22.78444930104318,0 -43.14363552091423,-22.78967914902761,0 -43.14121067090977,-22.79512450622673,0 -43.13930967345138,-22.80074395351254,0 -43.13794705536593,-22.80649474239055,-7.081154781429788e-010 -43.13713325232672,-22.8123331197653,0 -43.13687452745197,-22.81821466050339,0 -43.13717292152767,-22.82409460527556,0 -43.13802623529734,-22.82992820111532,0 -43.13942804401995,-22.83567104210473,0 -43.14136774425121,-22.84127940759225,0 -43.14383063255685,-22.84671059536091,0 -43.14679801561937,-22.85192324719817,-7.081154781429788e-010 -43.15024735095559,-22.85687766437252,0 -43.15415241722127,-22.86153611059399,0 -43.15848351284581,-22.8658631001276,0 -43.16320768151397,-22.8698256688395,0 -43.16828896279599,-22.87339362608272,0 -43.17368866602518,-22.87653978547504,0 -43.17936566533278,-22.87924017278156,0 -43.1852767135775,-22.88147420929013,0 -43.19137677275204,-22.88322486925573,-7.081154781429788e-010 -43.19761935831352,-22.88447881019031,0 -43.20395689476939,-22.88522647498452,0 -43.21034107975719,-22.88546216506643,0 -43.21672325378609,-22.88518408402735,0 -43.22305477276098,-22.88439435137505,0 -43.22928738038642,-22.88309898630695,0 -43.23537357754941,-22.88130786162999,0 -43.2412669858043,-22.87903462818598,-7.081154781429788e-010 -43.24692270213282,-22.87629661037112,0 -43.25229764222472,-22.87311467356296,0 -43.25735086961871,-22.8695130644859,0 -43.26204390816173,-22.8655192257559,0 -43.26634103538044,-22.86116358604408,0 -43.27020955451605,-22.85647932748616,-7.081154781429788e-010 -43.27362004314762,-22.85150213213892,0 -43.27654657651861,-22.84626990944395,0 -43.27896692388578,-22.84082250680256,0 -43.28086271642546,-22.83520140549227,0 -43.28221958545943,-22.82944940426415,0 -43.28302726999608,-22.82361029305013,0 -43.28327969282427,-22.81772851928089,0 -43.28297500464205,-22.81184884936618,-7.081154781429788e-010 -43.28211559594862,-22.80601602792111,0 -43.28070807667566,-22.80027443733414,0 -43.27876322377934,-22.79466776026406,0 -43.2762958972549,-22.78923864762637,0 -43.27332492527285,-22.78402839458192,0 -43.26987295936407,-22.77907662697628,0 -43.26596630080177,-22.77442100059379,0 -43.26163469953811,-22.7700969154901,0 -43.25691112725249,-22.76613724754947,0 -43.25183152625443,-22.76257209928037,0 -43.24643453615643,-22.75942857171567,0 -43.24076120039052,-22.75673055912338,0 -43.2348546547833,-22.754498568061,-7.081154781429788e-010 -43.22875980053168,-22.75274956212352,0 -43.22252296402942,-22.75149683354202,0 -43.21619154608644,-22.75074990258897,-7.081154781429788e-010 -43.20981366315685,-22.75051444553884,-7.081154781429788e-010 -43.20343778324606,-22.75079225171973,0 -43.19711235920513,-22.75158120997534,0 -43.19088546213749,-22.75287532463797,0 -43.18480441764344,-22.75466476089377,-7.081154781429788e-010 -43.17891544760721,-22.75693591920292,0 -43.17326332019401,-22.75967153822131,0 -43.16789101066695,-22.76285082545779,0 -43.16283937555926,-22.76644961469397,0 -43.15814684264364,-22.77044054899341,-7.081154781429788e-010 -43.15384911903078,-22.77479328793469,-7.081154781429788e-010 -43.14997891960106,-22.77947473752054,0 
+				"
+              }
+            },
+            {
+              "name": "09 - Penha",
+              "open": "1",
+              "styleUrl": "#inline33",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.28799706577829,-22.78250333153872,-7.081154781429788e-010 -43.2820864899875,-22.78169105235155,0 -43.27612166010303,-22.7813565946627,0 -43.27014790956604,-22.78150250038239,0 -43.26421063933452,-22.78212766061557,0 -43.25835497425832,-22.78322732405482,0 -43.25262542150972,-22.78479313294305,0 -43.24706553361261,-22.78681318633788,0 -43.24171757858219,-22.78927213020691,0 -43.2366222196373,-22.79215127368245,-7.081154781429788e-010 -43.23181820688033,-22.79542873060878,0 -43.22734208325694,-22.79907958532609,0 -43.22322790700632,-22.80307608145279,-7.081154781429788e-010 -43.21950699269739,-22.80738783225477,0 -43.21620767281399,-22.81198205102718,-7.081154781429788e-010 -43.21335508170623,-22.81682379976172,-7.081154781429788e-010 -43.21097096356436,-22.82187625423306,0 -43.20907350589874,-22.82710098351173,0 -43.20767719982417,-22.83245824179845,0 -43.20679272825074,-22.83790727037898,0 -43.20642688287806,-22.84340660741751,-7.081154781429788e-010 -43.20658251067616,-22.84891440324347,0 -43.20725849031552,-22.85438873874039,0 -43.20844973878348,-22.85978794441733,0 -43.21014724819502,-22.8650709177333,-7.081154781429788e-010 -43.21233815257486,-22.87019743625411,-7.081154781429788e-010 -43.21500582415634,-22.8751284642482,0 -43.2181299985147,-22.87982645037325,0 -43.2216869276248,-22.88425561417033,0 -43.2256495597149,-22.88838221916334,0 -43.22998774457497,-22.89217483046171,0 -43.23466846277481,-22.89560455487965,0 -43.23965607705511,-22.89864526171789,0 -43.24491260397593,-22.90127378250045,0 -43.25039800374237,-22.90347008811974,-7.081154781429788e-010 -43.25607048597887,-22.90521744201682,0 -43.26188682909328,-22.90650252820811,0 -43.26780271076014,-22.90731555316419,0 -43.27377304696066,-22.9076503207489,0 -43.27975233694664,-22.90750427963592,0 -43.28569501144636,-22.9068785428342,0 -43.29155578140362,-22.90577787916995,0 -43.29728998453666,-22.90421067679171,0 -43.3028539270218,-22.90218887898245,0 -43.3082052176472,-22.89972789277786,0 -43.31330309184384,-22.89684647110111,0 -43.31810872308486,-22.89356656933,0 -43.32258551924812,-22.88991317740978,0 -43.32669940166009,-22.88591412881373,0 -43.33041906468037,-22.88159988783141,0 -43.33371621384524,-22.87700331683048,0 -43.33656578076109,-22.87215942529045,-7.081154781429788e-010 -43.33894611312638,-22.86710510254454,-7.081154781429788e-010 -43.34083913845964,-22.86187883628868,0 -43.34223050032017,-22.85652041902229,0 -43.34310966602507,-22.85107064467453,-7.081154781429788e-010 -43.34347000509053,-22.84557099774088,0 -43.34330883785247,-22.84006333730789,0 -43.34262745395309,-22.83458957837818,-7.081154781429788e-010 -43.34143110061039,-22.82919137292406,0 -43.3397289408181,-22.82390979309537,0 -43.33753398185086,-22.81878501898597,0 -43.33486297467186,-22.81385603332456,0 -43.33173628505639,-22.80916032539829,0 -43.3281777374547,-22.80473360644432,-7.081154781429788e-010 -43.32421443281589,-22.80060953865348,0 -43.31987654178543,-22.79681947982478,0 -43.31519707486608,-22.79339224558852,0 -43.310211631298,-22.79035389098094,0 -43.3049581285654,-22.78772751300664,0 -43.29947651457493,-22.78553307566492,0 -43.29380846467331,-22.78378725874791,0 -43.28799706577829,-22.78250333153872,-7.081154781429788e-010 
+				"
+              }
+            },
+            {
+              "name": "10 - Madureira",
+              "open": "1",
+              "styleUrl": "#inline70",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.38709994115792,-22.87052528071883,0 -43.38667436566558,-22.86662769502979,0 -43.38588177423326,-22.86277911371381,0 -43.38472822868997,-22.85900882138665,-1.416230956285958e-009 -43.3832225354466,-22.85534550454289,-7.081154781429788e-010 -43.38137617764826,-22.85181703346937,0 -43.37920322705644,-22.84845025043262,0 -43.37672023635325,-22.8452707657436,0 -43.37394611270572,-22.84230276324088,0 -43.37090197356625,-22.83956881666092,-7.081154781429788e-010 -43.36761098581537,-22.83708971827992,0 -43.36409818947558,-22.83488432111824,0 -43.3603903073368,-22.83296939589456,0 -43.35651554193609,-22.83135950380538,0 -43.35250336142627,-22.83006688608554,0 -43.3483842759474,-22.82910137117872,0 -43.34418960618372,-22.82847030021446,0 -43.33995124584445,-22.82817847135028,0 -43.33570141985078,-22.82822810339643,0 -43.33147244004108,-22.82861881899544,0 -43.32729646022522,-22.8293476474828,0 -43.32320523242263,-22.83040904740718,0 -43.31922986611075,-22.83179494854149,0 -43.31540059228905,-22.83349481307002,0 -43.3117465341289,-22.83549571549287,0 -43.30829548593333,-22.83778244064856,0 -43.30507370207008,-22.84033759911926,0 -43.3021056974704,-22.84314175915219,0 -43.29941406120265,-22.84617359410583,-7.081154781429788e-010 -43.29701928453442,-22.84941004431237,0 -43.29493960479285,-22.85282649213787,0 -43.29319086621656,-22.85639694892101,0 -43.29178639886903,-22.86009425238063,0 -43.29073691654988,-22.86389027300093,0 -43.29005043450024,-22.86775612783414,0 -43.28973220755158,-22.87166240010185,0 -43.289784689214,-22.87557936293042,0 -43.2902075120438,-22.87947720552197,0 -43.29099748946821,-22.88332626004211,0 -43.29214863908347,-22.88709722749705,0 -43.29365222727775,-22.89076140087877,0 -43.29549683486673,-22.89429088387506,0 -43.29766844326819,-22.8976588034726,-7.081154781429788e-010 -43.30015054058187,-22.90083951482668,0 -43.30292424678596,-22.90380879682711,0 -43.30596845711201,-22.90654403686061,-7.081154781429788e-010 -43.30926000251662,-22.90902440334999,0 -43.31277382603334,-22.91123100474408,0 -43.31648317366211,-22.91314703373418,0 -43.32035979833772,-22.91475789558635,-7.081154781429788e-010 -43.32437417541422,-22.91605131959998,0 -43.32849572800999,-22.91701745283252,0 -43.33269306047866,-22.91764893536691,-7.081154781429788e-010 -43.33693419820592,-22.91794095654021,-7.081154781429788e-010 -43.34118683188102,-22.91789129169899,0 -43.34541856435543,-22.91750031919716,0 -43.3495971581809,-22.91677101750511,0 -43.35369078191256,-22.91570894245229,0 -43.35766825327382,-22.91432218477923,0 -43.36149927730438,-22.91262130832719,0 -43.36515467765359,-22.9106192693429,0 -43.36860661923684,-22.90833131752169,0 -43.37182882054132,-22.90577487955302,0 -43.37479675395208,-22.90296942606662,0 -43.37748783256397,-22.89993632300489,0 -43.37988158205355,-22.89669866856647,0 -43.38195979630408,-22.89328111697525,-7.081154781429788e-010 -43.38370667560518,-22.88970969042987,-7.081154781429788e-010 -43.38510894638652,-22.88601158067722,-7.081154781429788e-010 -43.38615596159003,-22.88221494173184,-7.081154781429788e-010 -43.38683978093654,-22.878348675329,0 -43.38715523049943,-22.87444221075237,-7.081154781429788e-010 -43.38709994115792,-22.87052528071883,0 
+				"
+              }
+            },
+            {
+              "name": "11 - Irajá",
+              "open": "1",
+              "styleUrl": "#inline37",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.35028667418937,-22.78330219824801,-7.081154781429788e-010 -43.34613735580983,-22.78238667732586,-7.081154781429788e-010 -43.3419173224794,-22.78180795179347,0 -43.33765866048993,-22.78157042179815,0 -43.33339374896755,-22.78167589330418,0 -43.32915501441358,-22.78212356440234,0 -43.32497468489051,-22.78291003138885,0 -43.32088454569465,-22.78402931456842,0 -43.31691569834609,-22.78547290358794,-7.081154781429788e-010 -43.31309832470333,-22.78722982196102,0 -43.30946145797301,-22.78928671029988,0 -43.30603276233599,-22.79162792763014,0 -43.30283832284915,-22.79423567002848,0 -43.2999024472085,-22.7970901056922,0 -43.29724748087331,-22.80016952542557,0 -43.29489363695491,-22.80345050741161,0 -43.29285884216576,-22.8069080950282,0 -43.29115860000792,-22.81051598636917,0 -43.28980587225326,-22.81424673404001,0 -43.28881097963353,-22.81807195371959,-7.081154781429788e-010 -43.28818152251593,-22.82196253991024,0 -43.28792232219136,-22.82588888724276,-7.081154781429788e-010 -43.28803538324848,-22.82982111565833,0 -43.28851987734831,-22.83372929775757,0 -43.28937214855202,-22.83758368658837,0 -43.29058574019144,-22.84135494213822,0 -43.29215144310633,-22.84501435480439,0 -43.2940573649092,-22.84853406413582,-7.081154781429788e-010 -43.29628901977547,-22.85188727117478,-7.081154781429788e-010 -43.29882943809763,-22.8550484427728,-7.081154781429788e-010 -43.30165929518692,-22.85799350631506,0 -43.30475705805711,-22.86070003335906,0 -43.30809914918169,-22.86314741077677,0 -43.31166012598256,-22.86531699808417,0 -43.31541287468244,-22.86719226974709,0 -43.31932881703936,-22.86875894136669,-7.081154781429788e-010 -43.32337812837791,-22.87000507877171,0 -43.32752996524216,-22.87092118917552,0 -43.3317527009168,-22.87150029369414,0 -43.33601416700052,-22.87173798066493,0 -43.34028189916609,-22.87163243935396,0 -43.34452338520828,-22.87118447379146,0 -43.34870631346193,-22.87039749662837,0 -43.35279881966955,-22.86927750306145,-7.081154781429788e-010 -43.35676973039053,-22.86783302502861,-7.081154781429788e-010 -43.36058880107184,-22.86607506602851,-7.081154781429788e-010 -43.36422694694323,-22.86401701706788,0 -43.36765646495785,-22.86167455438602,-7.081154781429788e-010 -43.37085124507134,-22.85906551974565,0 -43.3737869692381,-22.85620978421364,0 -43.37644129660134,-22.8531290964815,0 -43.37879403346471,-22.84984691689373,0 -43.38082728675311,-22.84638823846092,-7.081154781429788e-010 -43.38252559980229,-22.84277939623314,0 -43.38387606945534,-22.83904786649705,-7.081154781429788e-010 -43.38486844359174,-22.83522205733643,0 -43.3854951983671,-22.83133109215999,0 -43.38575159459973,-22.82740458785219,0 -43.38563571290175,-22.82347242924147,0 -43.38514846731582,-22.81956454160623,0 -43.38429359738317,-22.81571066295145,0 -43.38307763873295,-22.81194011778822,-7.081154781429788e-010 -43.38150987244581,-22.80828159413459,0 -43.37960225360372,-22.80476292542944,-7.081154781429788e-010 -43.37736931959498,-22.80141087901163,0 -43.3748280788933,-22.79825095276476,0 -43.37199788117502,-22.79530718146432,0 -43.3689002697764,-22.79260195428872,-7.081154781429788e-010 -43.36555881762165,-22.79015584487012,-7.081154781429788e-010 -43.36199894787418,-22.78798745516501,0 -43.35824774067406,-22.78611327431901,0 -43.35433372742565,-22.784547553587,0 -43.35028667418937,-22.78330219824801,-7.081154781429788e-010 
+				"
+              }
+            },
+            {
+              "name": "12 - Bangu",
+              "styleUrl": "#inline87",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.4120726919463,-22.90196644774728,0 -43.41433902363839,-22.90617830312024,-7.081154781429788e-010 -43.41699539105134,-22.91019213969546,0 -43.42002159882171,-22.91397739087688,0 -43.42339462943709,-22.91750522832944,-7.081154781429788e-010 -43.4270888179912,-22.92074878199718,0 -43.4310760473265,-22.92368334524216,0 -43.43532596208528,-22.92628656352355,0 -43.43980620003828,-22.92853860516105,0 -43.4444826389211,-22.93042231286383,0 -43.44931965688368,-22.93192333485337,-7.081154781429788e-010 -43.45428040454733,-22.93303023456566,-7.081154781429788e-010 -43.45932708656989,-22.93373457808321,0 -43.46442125054194,-22.93403099861956,0 -43.46952408097717,-22.93391723755604,0 -43.4745966961183,-22.93339416171309,0 -43.47960044525694,-22.93246575672177,0 -43.48449720426171,-22.93113909654706,0 -43.48924966702321,-22.92942428939922,-7.081154781429788e-010 -43.49382163055836,-22.92733440045266,0 -43.49817827156815,-22.9248853519712,0 -43.50228641231231,-22.92209580161327,0 -43.50611477375188,-22.91898699985917,0 -43.50963421401363,-22.915582627663,0 -43.51281795034892,-22.91190861558386,0 -43.51564176289281,-22.90799294579233,0 -43.51808417867532,-22.90386543847886,0 -43.52012663449388,-22.89955752430895,0 -43.52175361742481,-22.89510200467469,0 -43.52295278192791,-22.89053280158421,0 -43.52371504268219,-22.88588469910627,0 -43.52403464248061,-22.88119307835001,-7.081154781429788e-010 -43.52390919470536,-22.87649364800526,0 -43.5233397001012,-22.87182217249995,-7.081154781429788e-010 -43.52233053776139,-22.86721419984573,-7.081154781429788e-010 -43.52088943043762,-22.86270479124167,0 -43.51902738447875,-22.85832825448989,0 -43.51675860489478,-22.85411788324353,0 -43.51410038622777,-22.85010570406136,0 -43.51107298009068,-22.84632223318047,0 -43.50769944040783,-22.84279624484241,0 -43.50400544755351,-22.83955455291877,0 -43.50001911273922,-22.83662180747932,0 -43.49577076414334,-22.83402030783176,0 -43.4912927164082,-22.83176983343652,0 -43.4866190252496,-22.8298874939645,0 -43.4817852290294,-22.82838759962116,0 -43.47682807923524,-22.82728155270746,0 -43.47178526188974,-22.82657776122898,0 -43.46669511197584,-22.82628157519875,-7.081154781429788e-010 -43.46159632301453,-22.82639524611002,-7.081154781429788e-010 -43.45652765396473,-22.82691790988161,0 -43.45152763563463,-22.82784559340307,0 -43.44663427879676,-22.82917124463098,0 -43.44188478618729,-22.83088478601147,0 -43.43731527054273,-22.8329731908299,0 -43.43296048078419,-22.83542058191701,0 -43.42885353840278,-22.83820835197351,0 -43.42502568602597,-22.84131530461271,-7.081154781429788e-010 -43.42150605005961,-22.84471781506493,0 -43.41832141919893,-22.84839000933922,0 -43.41549604048874,-22.85230396049807,0 -43.41305143448638,-22.85642990057072,-7.081154781429788e-010 -43.41100623094325,-22.86073644651147,0 -43.40937602627122,-22.86519083850107,0 -43.4081732639014,-22.86975918879426,0 -43.40740713847408,-22.87440673923402,0 -43.40708352462219,-22.87909812548458,0 -43.40720493092834,-22.88379764598142,0 -43.40777047944556,-22.88846953355739,-7.081154781429788e-010 -43.4087759109802,-22.89307822768034,-7.081154781429788e-010 -43.41021361613908,-22.89758864522973,0 -43.4120726919463,-22.90196644774728,0 
+				"
+              }
+            },
+            {
+              "name": "13 - Piedade",
+              "open": "1",
+              "styleUrl": "#inline13",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.28323743908511,-22.9213921195834,0 -43.28602655359846,-22.92320053542074,0 -43.28897625199021,-22.92477812505383,0 -43.29206407506327,-22.92611287382181,0 -43.29526650944921,-22.92719461617182,0 -43.29855916695976,-22.92801511324758,-7.081154781429788e-010 -43.30191697067415,-22.92856811577919,0 -43.30531434633173,-22.92884941178987,0 -43.30872541755641,-22.92885685875197,0 -43.31212420340956,-22.92859039994455,0 -43.31548481674867,-22.92805206488645,0 -43.31878166186311,-22.92724595384145,0 -43.32198962986397,-22.92617820651505,0 -43.32508429032292,-22.92485695518397,0 -43.32804207768488,-22.9232922626196,-7.081154781429788e-010 -43.3308404710213,-22.92149604528333,0 -43.33345816574332,-22.91948198238529,0 -43.33587523595885,-22.91726541150589,0 -43.33807328623097,-22.91486321158323,0 -43.3400355915796,-22.91229367416526,0 -43.34174722466103,-22.90957636391549,0 -43.3431951691603,-22.90673196944256,-7.081154781429788e-010 -43.3443684185408,-22.90378214559714,0 -43.34525805940833,-22.90074934844404,0 -43.34585733886797,-22.89765666417223,0 -43.34616171537563,-22.89452763325035,-7.081154781429788e-010 -43.34616889271383,-22.89138607117054,0 -43.34587883685101,-22.88825588714774,0 -43.3452937755748,-22.88516090215572,0 -43.34441818092117,-22.88212466768473,0 -43.34325873455174,-22.87917028659861,0 -43.34182427636059,-22.8763202374516,0 -43.34012573671824,-22.87359620359774,0 -43.33817605288269,-22.87101890838754,0 -43.33599007022612,-22.86860795769975,0 -43.33358442903813,-22.8663816909988,0 -43.3309774377735,-22.86435704204359,0 -43.32818893371265,-22.86254941029879,0 -43.32524013209481,-22.86097254401893,0 -43.32215346486904,-22.8596384358861,0 -43.31895241028393,-22.85855723198779,0 -43.31566131460326,-22.85773715481968,0 -43.3123052072923,-22.85718444089297,-7.081154781429788e-010 -43.30890961106736,-22.85690329341533,-7.081154781429788e-010 -43.30550034823728,-22.85689585040129,0 -43.30210334479351,-22.85716216845183,-7.081154781429788e-010 -43.29874443372092,-22.85770022232497,0 -43.2954491590076,-22.85850592030056,0 -43.29224258182658,-22.85957313522404,0 -43.28914909034686,-22.8608937509955,0 -43.28619221460462,-22.86245772415472,0 -43.2833944478294,-22.86425316009907,0 -43.2807770755723,-22.86626640336065,0 -43.27836001392752,-22.86848214126328,0 -43.27616165807164,-22.87088352017842,0 -43.27419874226973,-22.87345227350404,0 -43.27248621241396,-22.87616886040087,-7.081154781429788e-010 -43.27103711206721,-22.87901261423896,0 -43.26986248288602,-22.88196189963301,0 -43.2689712801891,-22.88499427687873,0 -43.26837030432677,-22.88808667254584,0 -43.2680641483874,-22.8912155549348,0 -43.26805516265556,-22.89435711306654,0 -43.2683434361099,-22.8974874378461,0 -43.26892679512034,-22.9005827040229,-7.081154781429788e-010 -43.26980081937334,-22.90361935156301,0 -43.27095887492312,-22.90657426505174,0 -43.2723921641349,-22.90942494975805,0 -43.27408979215704,-22.91214970301679,0 -43.27603884943067,-22.91472777961869,0 -43.2782245096214,-22.91713954994285,0 -43.28063014223768,-22.91936664962057,0 -43.28323743908511,-22.9213921195834,0 
+				"
+              }
+            },
+            {
+              "name": "14 - Jacarepaguá/Tanque",
+              "styleUrl": "#inline4",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.42169053702372,-22.92304640081789,0 -43.42252118583015,-22.91840448944407,-7.081154781429788e-010 -43.42290938906751,-22.91371356070473,0 -43.42285223799014,-22.90900931859667,0 -43.42235021376611,-22.904327564735,-7.081154781429788e-010 -43.42140718241116,-22.89970392589853,0 -43.42003036399066,-22.89517358301772,0 -43.41823027636551,-22.89077100366354,0 -43.41602065394972,-22.88652968006632,0 -43.41341834213394,-22.88248187464749,-7.081154781429788e-010 -43.41044316821022,-22.87865837498833,0 -43.40711778980644,-22.87508826008478,-7.081154781429788e-010 -43.40346752200383,-22.87179867965038,0 -43.39952014446676,-22.86881464812807,0 -43.39530569005844,-22.86615885495965,0 -43.39085621655009,-22.86385149253689,0 -43.38620556315266,-22.86191010312513,0 -43.38138909370811,-22.86034944590582,0 -43.37644342847268,-22.85918138513359,-7.081154781429788e-010 -43.37140616650584,-22.85841480024432,0 -43.3663156007441,-22.85805551858633,0 -43.36121042789171,-22.85810627127728,0 -43.35612945529582,-22.85856667251651,-7.081154781429788e-010 -43.35111130699541,-22.85943322250737,-7.081154781429788e-010 -43.34619413113922,-22.86069933396765,0 -43.34141531095775,-22.86235538203024,0 -43.33681118144977,-22.86438877716107,0 -43.3324167539037,-22.86678406054956,0 -43.32826545031806,-22.86952302125825,0 -43.32438884971613,-22.8725848342553,0 -43.3208164482645,-22.87594621829609,-7.081154781429788e-010 -43.31757543500777,-22.87958161247108,1.416230956285958e-009 -43.31469048491892,-22.88346337009518,0 -43.31218357084116,-22.88756196848282,0 -43.31007379576035,-22.89184623303118,0 -43.30837724669922,-22.89628357392452,0 -43.30710687136727,-22.90084023367491,0 -43.30627237853239,-22.90548154363038,0 -43.3058801629053,-22.91017218751054,-7.081154781429788e-010 -43.30593325514587,-22.91487646997391,0 -43.30643129741156,-22.91955858817919,0 -43.30737054467614,-22.92418290427717,0 -43.30874389185183,-22.92871421675926,-7.081154781429788e-010 -43.31054092654957,-22.93311802859363,-7.081154781429788e-010 -43.31274800711703,-22.93736081010179,0 -43.31534836539638,-22.94141025456449,0 -43.31832223345288,-22.94523552459899,0 -43.32164699333697,-22.94880748741739,0 -43.32529734876098,-22.95209893715828,0 -43.32924551739848,-22.95508480258074,0 -43.33346144234929,-22.95774233852083,0 -43.3379130211606,-22.96005129963351,-7.081154781429788e-010 -43.34256635065302,-22.96199409507798,-7.081154781429788e-010 -43.34738598567288,-22.96355592295111,0 -43.3523352097794,-22.9647248834285,0 -43.35737631577857,-22.96549206973709,0 -43.36247089393468,-22.96585163625474,0 -43.36758012562871,-22.96580084320841,0 -43.37266508018747,-22.96534007762496,-7.081154781429788e-010 -43.37768701258182,-22.9644728503715,0 -43.38260765968506,-22.96320576930853,-7.081154781429788e-010 -43.38738953279459,-22.96154848876414,-7.081154781429788e-010 -43.39199620414983,-22.9595136357208,0 -43.39639258522973,-22.9571167132871,-7.081154781429788e-010 -43.40054519467872,-22.9543759822021,0 -43.40442241379573,-22.9513123212897,0 -43.40799472762108,-22.94794906794249,0 -43.41123494977288,-22.94431183986796,0 -43.41411842931568,-22.94042833947327,0 -43.41662323808824,-22.93632814239714,-7.081154781429788e-010 -43.41873033707343,-22.93204247181766,-7.081154781429788e-010 -43.42042372056032,-22.92760396027206,0 -43.42169053702372,-22.92304640081789,0 
+				"
+              }
+            },
+            {
+              "name": "15 - Saúde",
+              "open": "1",
+              "styleUrl": "#inline20",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.15584521558278,-22.89302850801242,0 -43.15553411344821,-22.89614727073953,-7.081154781429788e-010 -43.15551925345478,-22.89927914394606,0 -43.15580076916636,-22.90240029227758,0 -43.15637653827594,-22.90548696036341,0 -43.1572421981436,-22.908515653656,0 -43.15839117841146,-22.91146331733346,-7.081154781429788e-010 -43.15981475046525,-22.91430751190119,-7.081154781429788e-010 -43.16150209338247,-22.9170265841519,0 -43.16344037588026,-22.91959983217718,0 -43.16561485365133,-22.92200766316855,-7.081154781429788e-010 -43.1680089813573,-22.92423174279914,-7.081154781429788e-010 -43.17060453843359,-22.9262551350412,0 -43.17338176775211,-22.92806243134671,0 -43.17631952608672,-22.92963986819905,0 -43.17939544523327,-22.93097543213271,-7.081154781429788e-010 -43.18258610255164,-22.93205895141317,0 -43.18586719962267,-22.93288217367196,-7.081154781429788e-010 -43.18921374764816,-22.9334388288989,0 -43.19260025816841,-22.93372467730671,0 -43.19600093762966,-22.93373754169895,-7.081154781429788e-010 -43.19938988430245,-22.93347732409223,0 -43.20274128603375,-22.93294600646422,0 -43.20602961730884,-22.93214763562194,0 -43.20922983410414,-22.93108829230692,-7.081154781429788e-010 -43.2123175650302,-22.9297760447751,0 -43.21526929729371,-22.92822088720945,0 -43.21806255604843,-22.92643466343922,0 -43.22067607575774,-22.92443097655345,-7.081154781429788e-010 -43.22308996225515,-22.92222508510376,0 -43.22528584426294,-22.91983378669512,0 -43.22724701321194,-22.91727528985865,-7.081154781429788e-010 -43.22895855029898,-22.91456907519071,-7.081154781429788e-010 -43.23040743981773,-22.9117357468235,0 -43.23158266790713,-22.90879687536589,0 -43.23247530597546,-22.90577483351731,0 -43.23307857817685,-22.90269262561251,0 -43.23338791244203,-22.89957371240013,0 -43.2334009746904,-22.8964418323928,0 -43.2331176859816,-22.89332082115165,-7.081154781429788e-010 -43.23254022249422,-22.89023442988191,0 -43.23167299835096,-22.88720614472024,0 -43.2305226314394,-22.88425900808769,0 -43.22909789250628,-22.88141544346486,0 -43.22740963792912,-22.87869708491853,0 -43.22547072669119,-22.87612461267155,0 -43.22329592220368,-22.87371759596077,0 -43.22090177973217,-22.87149434437162,-7.081154781429788e-010 -43.21830652028994,-22.86947176877215,0 -43.21552989196162,-22.86766525289715,0 -43.21259301971261,-22.86608853655024,0 -43.20951824482384,-22.86475361130472,0 -43.20632895516774,-22.86367062948889,-7.081154781429788e-010 -43.20304940760772,-22.86284782714059,0 -43.19970454386088,-22.86229146151123,0 -43.19631980121088,-22.86200576358884,-7.081154781429788e-010 -43.19292091949565,-22.86199290599738,0 -43.18953374582101,-22.86225298651364,0 -43.18618403846824,-22.86278402732536,0 -43.18289727146922,-22.86358199003644,0 -43.1796984413178,-22.86464080630626,0 -43.17661187727092,-22.86595242389285,0 -43.17366105666687,-22.86750686775386,0 -43.1708684266516,-22.86929231574558,0 -43.16825523365784,-22.87129518835064,0 -43.16584136192499,-22.8735002517589,0 -43.16364518228227,-22.87589073352506,-7.081154781429788e-010 -43.16168341234233,-22.87844844993121,0 -43.15997098916919,-22.88115394409399,0 -43.15852095539249,-22.88398663377337,0 -43.15734435964096,-22.88692496776667,0 -43.15645017206211,-22.88994658970503,0 -43.15584521558278,-22.89302850801242,0 
+				"
+              }
+            },
+            {
+              "name": "16 - Jardim Botânico",
+              "open": "1",
+              "styleUrl": "#inline65",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.25453694086658,-22.99489837882635,0 -43.25654517364667,-22.99235617850809,0 -43.25830500220628,-22.98966250858157,-7.081154781429788e-010 -43.2598030429204,-22.9868378779246,-7.081154781429788e-010 -43.26102790755662,-22.98390379119832,-7.081154781429788e-010 -43.26197028955737,-22.98088258495539,0 -43.26262303439923,-22.97779725745174,0 -43.26298119350837,-22.97467129346286,0 -43.26304206133774,-22.97152848544236,0 -43.26280519534195,-22.96839275238744,0 -43.2622724187164,-22.96528795779144,0 -43.26144780589894,-22.96223772806897,0 -43.26033765096355,-22.95926527283489,0 -43.2589504191641,-22.95639320840131,0 -43.25729668201453,-22.95364338583249,0 -43.25538903641383,-22.95103672486025,0 -43.25324200844436,-22.94859305491775,0 -43.25087194258546,-22.94633096449369,0 -43.2482968771926,-22.94426765994548,0 -43.24553640719365,-22.94241883483725,0 -43.24261153504766,-22.94079855078845,-7.081154781429788e-010 -43.2395445110979,-22.93941913073101,0 -43.23635866452812,-22.93829106537937,0 -43.23307822619958,-22.93742293361731,-7.081154781429788e-010 -43.2297281447055,-22.93682133740061,0 -43.22633389702882,-22.93649085166535,-7.081154781429788e-010 -43.22292129522792,-22.93643398961811,0 -43.21951629060441,-22.93665118366927,0 -43.21614477682434,-22.93714078215252,0 -43.21283239347264,-22.93789906185531,0 -43.20960433151686,-22.93892025626601,-7.081154781429788e-010 -43.20648514214292,-22.94019659932559,0 -43.20349855040066,-22.94171838435479,0 -43.20066727506281,-22.94347403771377,0 -43.19801285605531,-22.94545020664002,0 -43.1955554907625,-22.94763186060352,-7.081154781429788e-010 -43.19331388044543,-22.9500024054158,0 -43.19130508793838,-22.95254380923297,0 -43.18954440770553,-22.95523673950269,0 -43.1880452492496,-22.95806070982119,0 -43.18681903476502,-22.96099423559141,0 -43.18587511182387,-22.96401499730502,-7.081154781429788e-010 -43.18522068177016,-22.96710001021285,0 -43.18486074438204,-22.97022579909828,-7.081154781429788e-010 -43.18479805923862,-22.97336857682809,0 -43.18503312410341,-22.97650442532545,0 -43.18556417050745,-22.9796094775894,0 -43.18638717658471,-22.98266009937619,-7.081154781429788e-010 -43.18749589708123,-22.9856330691583,0 -43.18888191032779,-22.98850575498937,0 -43.19053468183558,-22.99125628692431,-7.081154781429788e-010 -43.19244164404614,-22.99386372367754,0 -43.19458829164165,-22.99630821224423,0 -43.19695829170024,-22.9985711392622,0 -43.19953360786582,-23.00063527295458,0 -43.20229463759097,-23.00248489456405,0 -43.20522036140966,-23.00410591826994,0 -43.20828850310099,-23.00548599866614,0 -43.21147569951922,-23.00661462497416,0 -43.21475767878862,-23.00748320126585,0 -43.21810944549523,-23.00808511207859,-7.081154781429788e-010 -43.2215054714518,-23.00841577291743,0 -43.22491989056771,-23.00847266525538,0 -43.22832669632314,-23.00825535576167,0 -43.23169994032552,-23.00776549961028,0 -43.23501393041796,-23.00700682784292,0 -43.23824342681287,-23.00598511888387,0 -43.2413638347396,-23.00470815442648,0 -43.24435139212323,-23.00318566003089,0 -43.24718335085051,-23.00142923089069,0 -43.24983815023108,-22.99945224334012,-7.081154781429788e-010 -43.25229558132321,-22.99726975278268,-7.081154781429788e-010 -43.25453694086658,-22.99489837882635,0 
+				"
+              }
+            },
+            {
+              "name": "17 - Barra/Barrinha",
+              "styleUrl": "#inline92",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.35786707752181,-23.00905863984707,0 -43.35775314292831,-23.00436326460423,0 -43.35719508088159,-22.99969489569327,0 -43.35619718375251,-22.99508905755598,0 -43.35476708886539,-22.99058079519916,-7.081154781429788e-010 -43.35291571907767,-22.98620440773166,0 -43.35065719846958,-22.98199318767779,-7.081154781429788e-010 -43.34800874382103,-22.97797916804027,0 -43.34499053273291,-22.97419287902429,0 -43.34162554942168,-22.97066311625861,0 -43.33793940938026,-22.96741672226024,0 -43.3339601642519,-22.96447838278694,-7.081154781429788e-010 -43.32971808840716,-22.9618704396084,0 -43.32524544884622,-22.95961272110128,0 -43.32057626016783,-22.95772239193836,0 -43.31574602645369,-22.95621382299801,0 -43.31079147200943,-22.95509848246745,0 -43.30575026298285,-22.95438484895438,0 -43.30066072194426,-22.95407834725645,0 -43.29556153756387,-22.95418130726844,0 -43.29049147155521,-22.95469294633417,-7.081154781429788e-010 -43.28548906507319,-22.95560937517469,0 -43.28059234675911,-22.95692362734886,0 -43.27583854461322,-22.95862571202593,-7.081154781429788e-010 -43.27126380384873,-22.96070268967613,0 -43.26690291283884,-22.96313877011353,0 -43.26278903921117,-22.96591543215815,0 -43.25895347807214,-22.969011564022,0 -43.25542541425781,-22.97240362336784,0 -43.25223170040742,-22.97606581584113,0 -43.24939665254287,-22.97997029073565,0 -43.24694186471135,-22.98408735232341,0 -43.2448860441104,-22.98838568525927,-7.081154781429788e-010 -43.24324486796652,-22.99283259236324,-7.081154781429788e-010 -43.24203086327832,-22.99739424298729,0 -43.24125331036839,-23.00203593009094,0 -43.24091817101125,-23.00672233408142,0 -43.24102804172182,-23.01141779141948,0 -43.24158213260039,-23.01608656595293,0 -43.24257627193785,-23.02069312091534,0 -43.24400293658837,-23.02520238951962,0 -43.24585130792037,-23.02958004208265,0 -43.24810735296018,-23.03379274764088,0 -43.25075393014684,-23.03780842805542,0 -43.25377091892531,-23.04159650265923,-7.081154781429788e-010 -43.25713537221856,-23.0451281215694,-7.081154781429788e-010 -43.26082169063821,-23.04837638587096,0 -43.26480181712132,-23.05131655297791,0 -43.26904545051798,-23.0539262255888,-1.416230956285958e-009 -43.27352027650278,-23.05618552277901,0 -43.27819221404364,-23.0580772319082,0 -43.28302567553612,-23.05958694016834,0 -43.28798383860008,-23.0607031447545,-7.081154781429788e-010 -43.29302892744153,-23.06141734080501,0 -43.29812250160379,-23.06172408642979,0 -43.30322574987198,-23.06162104432241,0 -43.3082997870532,-23.06110899963353,-7.081154781429788e-010 -43.31330595133026,-23.06019185396674,0 -43.31820609988301,-23.05887659554366,0 -43.32296290048505,-23.05717324576947,-7.081154781429788e-010 -43.32754011681657,-23.05509478261334,0 -43.33190288528557,-23.05265704139761,0 -43.3360179812189,-23.04987859376425,-7.081154781429788e-010 -43.3398540723712,-23.04678060575547,-7.081154781429788e-010 -43.34338195780244,-23.04338667610658,0 -43.34657479029368,-23.03972265600034,-7.081154781429788e-010 -43.34940828060284,-23.03581645167458,0 -43.35186088200847,-23.0316978114052,0 -43.3539139537465,-23.02739809850468,0 -43.35555190211331,-23.02295005208245,0 -43.35676229818461,-23.01838753740413,-7.081154781429788e-010 -43.35753597128363,-23.01374528776395,0 -43.35786707752181,-23.00905863984707,0 
+				"
+              }
+            },
+            {
+              "name": "18 - Jacarepaguá/Cidade de Deus",
+              "open": "1",
+              "styleUrl": "#inline46",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.39845570987436,-22.95988449668082,-7.081154781429788e-010 -43.39967918196828,-22.95695910557213,0 -43.40062105539468,-22.95394665402982,0 -43.40127417936468,-22.9508700736584,0 -43.40163360227606,-22.94775278265039,0 -43.40169660881792,-22.94461850745216,-7.081154781429788e-010 -43.40146274002424,-22.94149110213164,0 -43.40093379614249,-22.93839436682474,0 -43.40011382231389,-22.93535186664206,0 -43.39900907719405,-22.93238675241328,0 -43.39762798476973,-22.92952158463054,0 -43.39598106975584,-22.92677816192639,-7.081154781429788e-010 -43.39408087707899,-22.92417735538682,-7.081154781429788e-010 -43.39194187607279,-22.92173894995315,0 -43.38958035012421,-22.91948149411304,0 -43.38701427261785,-22.91742215901612,0 -43.38426317012576,-22.91557660807797,0 -43.38134797388522,-22.91395887805626,-7.081154781429788e-010 -43.37829086069153,-22.91258127249554,0 -43.37511508441128,-22.9114542683432,0 -43.37184479938932,-22.91058643643976,0 -43.36850487708163,-22.90998437648186,0 -43.36512071729615,-22.90965266694697,0 -43.36171805546154,-22.90959383035628,-7.081154781429788e-010 -43.35832276737369,-22.90980831413712,-7.081154781429788e-010 -43.3549606728872,-22.91029448722849,0 -43.35165734002758,-22.91104865245531,0 -43.34843789099557,-22.91206507457845,0 -43.34532681152295,-22.91333602380959,-7.081154781429788e-010 -43.34234776501321,-22.91485183446387,-7.081154781429788e-010 -43.33952341286757,-22.91660097830922,0 -43.33687524235022,-22.91857015206056,0 -43.33442340329349,-22.92074437836035,0 -43.33218655487796,-22.92310711948489,-7.081154781429788e-010 -43.33018172364987,-22.92564040291965,-7.081154781429788e-010 -43.32842417385554,-22.92832495785649,0 -43.32692729108187,-22.93114036158255,0 -43.32570248009449,-22.93406519465519,0 -43.32475907765946,-22.93707720368941,0 -43.32410428102385,-22.94015347052612,-7.081154781429788e-010 -43.32374309261292,-22.94327058649935,0 -43.32367828138135,-22.94640483048108,0 -43.32391036112966,-22.94953234935185,-7.081154781429788e-010 -43.32443758596967,-22.95262933952562,0 -43.32525596299227,-22.95567222814779,0 -43.32635928205998,-22.95863785258614,0 -43.3277391625159,-22.96150363684611,0 -43.32938511647015,-22.96424776356378,0 -43.3312846281975,-22.96684934026211,0 -43.33342324905463,-22.9692885585989,0 -43.33578470720526,-22.97154684538682,-7.081154781429788e-010 -43.33835103132486,-22.97360700422836,0 -43.3411026873482,-22.97545334667884,0 -43.34401872721925,-22.97707181193086,0 -43.34707694850945,-22.97845007410031,0 -43.35025406368327,-22.97957763628903,0 -43.35352587771427,-22.98044591070084,0 -43.35686747268827,-22.98104828419367,0 -43.36025339797416,-22.98138016876348,0 -43.36365786449943,-22.98143903657071,0 -43.36705494163356,-22.98122443923952,0 -43.37041875516258,-22.98073801128109,0 -43.37372368482875,-22.97998345761453,-7.081154781429788e-010 -43.37694455991313,-22.9789665252815,0 -43.38005685135407,-22.97769495957282,0 -43.38303685892301,-22.97617844490472,0 -43.38586189201749,-22.97442853090039,-7.081154781429788e-010 -43.38851044268301,-22.9724585442458,0 -43.39096234953672,-22.97028348699816,0 -43.3931989513381,-22.96791992212911,0 -43.39520322903416,-22.96538584718221,-7.081154781429788e-010 -43.39695993519744,-22.9627005570153,0 -43.39845570987436,-22.95988449668082,-7.081154781429788e-010 
+				"
+              }
+            },
+            {
+              "name": "19 - Barra/Riocentro",
+              "styleUrl": "#inline",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.35640073362097,-23.00108617334344,0 -43.35859758617954,-23.00532993305001,-7.081154781429788e-010 -43.3611880498819,-23.00938126180585,0 -43.36415243231746,-23.01320930789796,0 -43.36746818794548,-23.01678491740437,0 -43.37111008921408,-23.02008085668683,-7.081154781429788e-010 -43.37505041833008,-23.02307202029704,0 -43.37925917822711,-23.0257356226946,0 -43.3837043211261,-23.02805137229774,0 -43.38835199294083,-23.0300016265228,0 -43.39316679165317,-23.0315715266137,0 -43.39811203766972,-23.03274911121834,0 -43.40315005407378,-23.0335254078324,0 -43.40824245460662,-23.03389450140195,-7.081154781429788e-010 -43.41335043714815,-23.03385357955323,-7.081154781429788e-010 -43.41843508042279,-23.03340295409863,-7.081154781429788e-010 -43.42345764162953,-23.03254605865232,0 -43.4283798526876,-23.03128942237374,0 -43.43316421280095,-23.02964262004286,0 -43.43777427507415,-23.0276181988542,-7.081154781429788e-010 -43.44217492496173,-23.02523158249701,-7.081154781429788e-010 -43.44633264839884,-23.02250095326491,-7.081154781429788e-010 -43.45021578754603,-23.01944711310759,0 -43.45379478218057,-23.01609332469947,0 -43.45704239488372,-23.01246513375385,-7.081154781429788e-010 -43.45993391830362,-23.00859017395436,0 -43.46244736291761,-23.00449795600828,0 -43.46456362387345,-23.00021964244638,0 -43.46626662565587,-22.99578780990187,0 -43.46754344349961,-22.99123620069438,0 -43.46838440065393,-22.98659946562437,0 -43.46878314079167,-22.98191289994783,0 -43.46873667504993,-22.97721217454995,0 -43.46824540338465,-22.9725330643699,0 -43.46731311011943,-22.96791117614657,0 -43.46594693376483,-22.9633816775565,-7.081154781429788e-010 -43.46415731137979,-22.95897902980172,-7.081154781429788e-010 -43.4619578979383,-22.9547367256751,0 -43.45936546135139,-22.95068703508679,0 -43.45639975397485,-22.94686075997499,-7.081154781429788e-010 -43.45308336160724,-22.94328700045135,0 -43.44944153114771,-22.93999293394336,-7.081154781429788e-010 -43.44550197823811,-22.93700360899599,0 -43.44129467636042,-22.93434175528282,0 -43.43685162899266,-22.93202761125264,0 -43.43220662654951,-22.93007877070454,0 -43.4273949899416,-22.92851004944067,-7.081154781429788e-010 -43.42245330268339,-22.92733337299498,-7.081154781429788e-010 -43.41741913356035,-22.92655768627781,0 -43.41233075193337,-22.92618888581161,0 -43.40722683780992,-22.92622977506434,0 -43.4021461888485,-22.926680043214,0 -43.39712742648477,-22.92753626750301,-7.081154781429788e-010 -43.39220870337339,-22.92879193916473,-7.081154781429788e-010 -43.38742741433082,-22.93043751272863,0 -43.38281991293952,-22.93246047833579,-7.081154781429788e-010 -43.37842123593392,-22.93484545652408,0 -43.37426483743394,-22.93757431477488,-7.081154781429788e-010 -43.37038233502167,-22.94062630494893,0 -43.36680326957321,-22.94397822058265,0 -43.36355488065914,-22.94760457286603,0 -43.36066189921628,-22.95147778398221,0 -43.3581463590688,-22.95556839635675,0 -43.35602742874071,-22.95984529624329,0 -43.35432126485486,-22.96427594996234,0 -43.35304088825537,-22.96882665101223,0 -43.35219608382387,-22.97346277618635,-7.081154781429788e-010 -43.3517933247849,-22.97814904876003,0 -43.35183572211346,-22.98284980675386,0 -43.35232299947003,-22.98752927423823,0 -43.35325149389586,-22.9921518336178,0 -43.35461418230607,-22.99668229682331,0 -43.35640073362097,-23.00108617334344,0 
+				"
+              }
+            },
+            {
+              "name": "20 - Guaratiba",
+              "styleUrl": "#inline66",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.61927904701378,-22.95822145905209,-7.081154781429788e-010 -43.61047252757203,-22.95660431207746,0 -43.60154659486864,-22.95569956764089,0 -43.59256904077999,-22.95551409706609,0 -43.58360804677929,-22.95604930894207,0 -43.5747316693595,-22.95730113849214,0 -43.5660073263759,-22.95926007825254,0 -43.5575012880884,-22.96191124983549,-7.081154781429788e-010 -43.54927817665352,-22.96523451624758,0 -43.54140047775901,-22.96920463393674,0 -43.53392806801425,-22.97379144344622,0 -43.52691776160425,-22.97896009726869,0 -43.52042287958621,-22.98467132321676,0 -43.5144928450551,-22.99088172136041,0 -43.5091728072287,-22.99754409233047,0 -43.50450329730573,-23.00460779454928,0 -43.50051991873029,-23.01201912773006,-7.081154781429788e-010 -43.49725307425748,-23.01972173978404,-7.081154781429788e-010 -43.49472773195505,-23.0276570540928,0 -43.49296323200041,-23.03576471394283,-7.081154781429788e-010 -43.49197313583791,-23.04398304078159,0 -43.4917651189548,-23.05224950284153,-7.081154781429788e-010 -43.49234090821224,-23.06050119058958,0 -43.49369626433764,-23.06867529539856,0 -43.49582100984357,-23.07670958780116,0 -43.49869910229354,-23.08454289168017,0 -43.50230875248448,-23.09211555076879,0 -43.50662258676731,-23.09936988388358,-7.081154781429788e-010 -43.51160785237707,-23.10625062538871,0 -43.51722666430362,-23.11270534749507,0 -43.52343629189792,-23.1186848611285,0 -43.53018948308707,-23.12414359225991,-7.081154781429788e-010 -43.53743482376162,-23.12903993077274,0 -43.54511712960906,-23.13333654915106,0 -43.55317786739506,-23.13700068850088,0 -43.56155560244798,-23.14000440966899,0 -43.57018646887983,-23.14232480749195,0 -43.57900465888369,-23.14394418649553,0 -43.58794292728474,-23.1448501966646,0 -43.59693310739077,-23.14503592821657,0 -43.60590663409128,-23.14449996463267,-7.081154781429788e-010 -43.61479507009152,-23.14324639353006,0 -43.62353063114065,-23.14128477528907,-7.081154781429788e-010 -43.63204670612226,-23.13863006968235,-7.081154781429788e-010 -43.64027836791942,-23.13530252108349,0 -43.64816287104612,-23.13132750315734,-7.081154781429788e-010 -43.65564013215071,-23.12673532425252,0 -43.66265318964361,-23.12156099502318,0 -43.66914863887919,-23.11584396010141,0 -43.67507703953007,-23.10962779591999,0 -43.68039329202505,-23.10295987704608,0 -43.68505698018259,-23.09589101362715,0 -43.68903267745117,-23.0884750627699,0 -43.69229021446888,-23.08076851686819,0 -43.69480490597008,-23.07283007206768,-7.081154781429788e-010 -43.69655773539575,-23.0647201801997,0 -43.69753549590305,-23.05650058763499,0 -43.69773088681555,-23.04823386459928,0 -43.69714256490365,-23.03998292855517,0 -43.6957751502363,-23.0318105652899,0 -43.69363918669187,-23.02377895135522,0 -43.69075105756006,-23.01594918148506,0 -43.68713285700285,-23.00838080456779,0 -43.6828122184681,-23.00113137167595,0 -43.67782210146538,-22.9942559995552,-7.081154781429788e-010 -43.67220053841348,-22.98780695284913,0 -43.66599034355486,-22.98183324818803,0 -43.65923878620063,-22.97638028309835,0 -43.65199723081897,-22.97148949249821,0 -43.64432074670994,-22.96719803533268,0 -43.63626769021853,-22.96353851367425,0 -43.6278992626247,-22.9605387263693,-7.081154781429788e-010 -43.61927904701378,-22.95822145905209,-7.081154781429788e-010 
+				"
+              }
+            },
+            {
+              "name": "21 - Estrada Grajaú-Jacarepaguá",
+              "open": "1",
+              "styleUrl": "#inline90",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.2883812058475,-22.95124013355841,-7.081154781429788e-010 -43.29093745312238,-22.95331974543042,0 -43.29368088306615,-22.95518624502437,0 -43.2965906104685,-22.95682541806124,0 -43.29964448115563,-22.95822478097631,0 -43.30281924088221,-22.95937367618456,0 -43.30609071268855,-22.96026335342238,0 -43.30943398136196,-22.96088703653967,-7.081154781429788e-010 -43.31282358358406,-22.96123997522792,0 -43.31623370230131,-22.96131948128574,0 -43.31963836382129,-22.96112494914245,0 -43.32301163611638,-22.96065786048154,0 -43.32632782680619,-22.95992177292824,0 -43.3295616792932,-22.95892229288866,-7.081154781429788e-010 -43.3326885655402,-22.95766703274952,0 -43.33568467400573,-22.95616555276848,0 -43.33852719129148,-22.95442928810245,0 -43.34119447610665,-22.95247146153595,0 -43.34366622421455,-22.95030698258093,0 -43.34592362309897,-22.9479523337243,-7.081154781429788e-010 -43.34794949516896,-22.94542544469725,0 -43.34972842841122,-22.94274555573237,-7.081154781429788e-010 -43.35124689349836,-22.9399330708577,0 -43.35249334646753,-22.93700940235283,-7.081154781429788e-010 -43.35345831619647,-22.93399680755857,0 -43.35413447602355,-22.93091821928919,-7.081154781429788e-010 -43.35451669898006,-22.92779707114372,0 -43.35460209623104,-22.92465711905065,0 -43.35439003844959,-22.92152226040751,0 -43.35388215998032,-22.91841635219356,0 -43.35308234577989,-22.91536302944049,-7.081154781429788e-010 -43.3519967012521,-22.91238552544119,0 -43.35063350522595,-22.90950649506262,0 -43.34900314645095,-22.90674784250317,0 -43.34711804410817,-22.90413055480013,0 -43.34499255295485,-22.90167454234809,-7.081154781429788e-010 -43.34264285383443,-22.89939848763437,0 -43.34008683039297,-22.89731970333483,0 -43.33734393294379,-22.89545400084159,0 -43.33443503051765,-22.89381557021416,0 -43.33138225222187,-22.8924168724595,0 -43.32820881911005,-22.89126854495206,0 -43.32493886783335,-22.89037932070614,0 -43.32159726740395,-22.88975596210788,0 -43.3182094304514,-22.88940320960546,-7.081154781429788e-010 -43.31480112039241,-22.88932374574308,0 -43.31139825596419,-22.88951817480934,0 -43.30802671459058,-22.88998501825271,0 -43.30471213605878,-22.89072072589875,0 -43.30147972798168,-22.89171970288468,0 -43.29835407450877,-22.89297435210879,0 -43.29535894972435,-22.89447513187582,0 -43.29251713713806,-22.89621062830448,0 -43.28985025662882,-22.8981676419528,0 -43.28737860014873,-22.90033128800892,0 -43.28512097742994,-22.90268510929316,0 -43.28309457286456,-22.90521120121968,0 -43.28131481464556,-22.90789034777539,-7.081154781429788e-010 -43.27979525716678,-22.91070216748996,-7.081154781429788e-010 -43.27854747758295,-22.91362526829434,-7.081154781429788e-010 -43.27758098732474,-22.91663741009699,0 -43.27690315925435,-22.91971567384755,-7.081154781429788e-010 -43.27651917102916,-22.92283663580734,0 -43.27643196512086,-22.92597654570499,0 -43.27664222581153,-22.9291115074251,0 -43.27714837336009,-22.93221766085642,-7.081154781429788e-010 -43.27794657540307,-22.93527136351649,0 -43.27903077552124,-22.93824937056914,-7.081154781429788e-010 -43.28039273877321,-22.9411290118624,0 -43.2820221138667,-22.94388836463559,-7.081154781429788e-010 -43.28390651150932,-22.94650642057575,-7.081154781429788e-010 -43.28603159835588,-22.94896324594584,0 -43.2883812058475,-22.95124013355841,-7.081154781429788e-010 
+				"
+              }
+            },
+            {
+              "name": "22 - Santa Cruz",
+              "styleUrl": "#inline91",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.62375897608653,-22.96255058651821,0 -43.628997293903,-22.96717145736799,0 -43.6346534326965,-22.97135418628853,-7.081154781429788e-010 -43.64068432581917,-22.97506689816705,-7.081154781429788e-010 -43.64704403894356,-22.97828129724184,0 -43.6536841207293,-22.98097288366394,-7.081154781429788e-010 -43.66055397308968,-22.98312114106494,0 -43.66760123819367,-22.98470969366922,-7.081154781429788e-010 -43.67477219919922,-22.98572643172515,0 -43.68201219159935,-22.9861636042759,0 -43.68926602197261,-22.98601787854522,0 -43.69647839086777,-22.98529036547393,0 -43.70359431651713,-22.98398661120752,0 -43.71055955606679,-22.98211655460143,0 -43.71732102103221,-22.97969445107612,0 -43.72382718373631,-22.97673876341711,0 -43.73002847156381,-22.97327202037259,0 -43.73587764596665,-22.96932064415248,-7.081154781429788e-010 -43.74133016328367,-22.96491474817332,0 -43.74634451458869,-22.9600879066247,0 -43.75088254195545,-22.95487689764869,-7.081154781429788e-010 -43.75490972872168,-22.94932142212716,0 -43.75839546154855,-22.94346380025699,-7.081154781429788e-010 -43.76131326230091,-22.93734864826124,0 -43.76364098801781,-22.93102253773382,0 -43.76536099749973,-22.92453364024314,0 -43.76646028330363,-22.91793135992891,0 -43.76693056821132,-22.9112659569118,0 -43.76676836551395,-22.90458816439995,0 -43.76597500273665,-22.89794880241758,0 -43.7645566087086,-22.8913983911003,0 -43.76252406416212,-22.88498676649731,0 -43.75989291632098,-22.87876270179589,0 -43.75668325820606,-22.87277353683468,0 -43.75291957364841,-22.86706481870392,0 -43.74863054925149,-22.86167995614088,0 -43.74384885478417,-22.85665989031908,0 -43.73861089371425,-22.85204278450172,0 -43.73295652580545,-22.84786373488365,0 -43.72692876389895,-22.84415450478381,0 -43.72057344718247,-22.84094328417161,0 -43.7139388934141,-22.83825447631978,0 -43.7070755327146,-22.83610851317097,-7.081154781429788e-010 -43.70003552566897,-22.83452170079082,-7.081154781429788e-010 -43.69287236858632,-22.83350609605489,0 -43.68564048885464,-22.8330694154845,0 -43.67839483339516,-22.83321497690724,0 -43.67119045326766,-22.83394167437475,0 -43.66408208750433,-22.83524398652334,0 -43.65712374925515,-22.83711201831581,0 -43.65036831731176,-22.8395315758549,0 -43.64386713604083,-22.84248427371391,-7.081154781429788e-010 -43.63766962669954,-22.84594767398847,0 -43.63182291302908,-22.84989545603729,0 -43.62637146392325,-22.85429761565106,0 -43.62135675585199,-22.85912069216784,-7.081154781429788e-010 -43.61681695758264,-22.86432802184413,0 -43.61278663958625,-22.86988001559159,0 -43.60929651034311,-22.8757344590051,0 -43.60637318157168,-22.88184683243708,0 -43.60403896419899,-22.88817064871861,0 -43.60231169667004,-22.89465780599051,0 -43.60120460695944,-22.90125895298847,-7.081154781429788e-010 -43.6007262094024,-22.9079238640269,0 -43.60088023720568,-22.91460182084613,0 -43.60166561123321,-22.92124199842953,0 -43.6030764453892,-22.92779385186003,0 -43.60510208864356,-22.93420750127072,-7.081154781429788e-010 -43.6077272034644,-22.94043411195185,0 -43.61093188014105,-22.94642626670677,0 -43.61469178620115,-22.95213832760215,-7.081154781429788e-010 -43.61897834984951,-22.95752678433274,0 -43.62375897608653,-22.96255058651821,0 
+				"
+              }
+            },
+            {
+              "name": "23 - Grande Meier",
+              "open": "1",
+              "styleUrl": "#inline52",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.24916532966986,-22.8661469178145,0 -43.24696733729429,-22.86854910492705,0 -43.2450048561334,-22.87111863723182,-7.081154781429788e-010 -43.24329282878168,-22.8738359679609,-7.081154781429788e-010 -43.24184429498764,-22.8766804248224,-7.081154781429788e-010 -43.24067029210536,-22.87963036707881,0 -43.23977977069564,-22.88266335002425,0 -43.23917952593118,-22.88575629561555,0 -43.23887414534237,-22.88888566796418,-7.081154781429788e-010 -43.2388659733175,-22.89202765235797,0 -43.23915509264537,-22.89515833645336,0 -43.23973932325945,-22.89825389226041,0 -43.24061423821217,-22.9012907575362,0 -43.2417731967766,-22.90424581520425,0 -43.24320739444144,-22.90709656943178,0 -43.24490592943553,-22.90982131702047,0 -43.24685588529033,-22.91239931280063,0 -43.24904242882448,-22.9148109277635,0 -43.25144892281447,-22.9170377987205,0 -43.25405705250054,-22.91906296834236,0 -43.25684696496877,-22.92087101450354,0 -43.2597974203485,-22.92244816793889,0 -43.2628859536715,-22.92378241730823,0 -43.26608904615454,-22.92486360086118,0 -43.26938230459223,-22.92568348399674,0 -43.27274064748295,-22.92623582212064,0 -43.27613849645641,-22.9265164083164,0 -43.27954997152978,-22.92652310546267,0 -43.28294908868798,-22.92625586254962,0 -43.28630995826587,-22.92571671506833,0 -43.28960698260334,-22.92490976947038,0 -43.29281505144989,-22.92384117181742,-7.081154781429788e-010 -43.2959097336138,-22.92251906086208,0 -43.29886746338051,-22.92095350592211,-7.081154781429788e-010 -43.30166572026681,-22.91915643002567,0 -43.30428320073066,-22.91714151891997,0 -43.30669998051975,-22.9149241166431,0 -43.30889766641734,-22.91252110846209,0 -43.3108595362267,-22.9099507920769,0 -43.31257066592902,-22.90723273807932,-7.081154781429788e-010 -43.31401804305038,-22.90438764073736,0 -43.31519066538164,-22.9014371602492,-7.081154781429788e-010 -43.31607962430937,-22.89840375767459,0 -43.31667817213605,-22.89531052380694,0 -43.31698177289182,-22.89218100329389,-7.081154781429788e-010 -43.3169881362677,-22.88903901534947,-7.081154781429788e-010 -43.31669723442975,-22.88590847242517,0 -43.31611130160512,-22.88281319822149,0 -43.31523481646214,-22.87977674642501,0 -43.31407446743715,-22.87682222154887,0 -43.31263910128988,-22.87397210323721,0 -43.31093965529529,-22.87124807536641,-7.081154781429788e-010 -43.30898907360218,-22.86867086123791,0 -43.30680220840774,-22.86626006611038,-7.081154781429788e-010 -43.30439570670901,-22.86403402826212,0 -43.30178788350001,-22.86200967970882,-7.081154781429788e-010 -43.29899858238257,-22.86020241762827,-7.081154781429788e-010 -43.29604902465177,-22.85862598746169,-7.081154781429788e-010 -43.29296164800124,-22.85729237857314,-7.081154781429788e-010 -43.28975993606937,-22.85621173325225,0 -43.28646824011418,-22.85539226974613,0 -43.28311159416199,-22.85484021989879,0 -43.27971552502246,-22.85455978186759,-7.081154781429788e-010 -43.27630585859902,-22.85455308827192,-7.081154781429788e-010 -43.27290852395182,-22.85482019001378,0 -43.26954935658522,-22.85535905589149,-7.081154781429788e-010 -43.26625390243851,-22.85616558800985,-7.081154781429788e-010 -43.26304722405268,-22.85723365287061,-7.081154781429788e-010 -43.25995371037102,-22.85855512790975,0 -43.25699689160437,-22.86011996313155,0 -43.25419926055564,-22.86191625737614,0 -43.25158210175118,-22.86393034864639,0 -43.24916532966986,-22.8661469178145,0 
+				"
+              }
+            },
+            {
+              "name": "24 - Anchieta",
+              "open": "1",
+              "styleUrl": "#inline74",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.42078868403405,-22.86934740827958,0 -43.42470830205628,-22.86778965562535,0 -43.42846555580693,-22.86592297498026,0 -43.43203183263053,-22.86376158531849,0 -43.43537997827237,-22.8613219497542,0 -43.43848450392522,-22.85862264983199,0 -43.44132178043824,-22.85568424367026,0 -43.4438702182032,-22.85252910905054,-7.081154781429788e-010 -43.44611043134748,-22.84918127266063,-7.081154781429788e-010 -43.44802538498799,-22.845666226805,-7.081154781429788e-010 -43.449600524434,-22.84201073499031,0 -43.45082388536928,-22.838242627878,0 -43.45168618419306,-22.83439059116788,0 -43.45218088785412,-22.83048394703627,0 -43.45230426267143,-22.82655243079968,0 -43.45205540179749,-22.82262596450889,0 -43.45143623114412,-22.81873442919962,0 -43.45045149375536,-22.81490743753392,0 -43.44910871277586,-22.81117410856063,-7.081154781429788e-010 -43.44741813332495,-22.80756284630522,0 -43.44539264374473,-22.804101123868,0 -43.44304767684589,-22.80081527466524,0 -43.44040109192191,-22.7977302923923,0 -43.43747303844648,-22.79486964121961,-7.081154781429788e-010 -43.43428580250227,-22.79225507765346,0 -43.43086363711696,-22.78990648540414,0 -43.42723257779868,-22.7878417245046,0 -43.42342024467178,-22.78607649581444,0 -43.41945563270949,-22.78462422192743,0 -43.41536889164725,-22.78349594537688,-7.081154781429788e-010 -43.4111910972335,-22.78270024490259,0 -43.40695401553771,-22.78224317040768,-7.081154781429788e-010 -43.40268986208471,-22.78212819709243,0 -43.3984310576214,-22.78235619910935,-7.081154781429788e-010 -43.39420998234624,-22.78292544293638,0 -43.39005873044217,-22.78383160051837,-7.081154781429788e-010 -43.38600886675261,-22.78506778207786,-7.081154781429788e-010 -43.38209118742368,-22.78662458834985,0 -43.37833548630818,-22.78849018184855,0 -43.37477032888558,-22.79065037663218,0 -43.37142283539821,-22.7930887458924,0 -43.36831847483804,-22.79578674656061,-7.081154781429788e-010 -43.36548087133976,-22.79872385999561,0 -43.36293162444696,-22.80187774769471,0 -43.3606901446173,-22.80522442085714,0 -43.35877350522153,-22.80873842252246,-7.081154781429788e-010 -43.35719631217124,-22.81239302091119,0 -43.35597059218038,-22.81616041250815,0 -43.35510570052838,-22.82001193335408,-7.081154781429788e-010 -43.35460824904815,-22.82391827694687,0 -43.35448205491174,-22.82784971710176,-7.081154781429788e-010 -43.35472811063011,-22.83177633407964,0 -43.35534457552457,-22.83566824226624,0 -43.35632678876412,-22.83949581766985,0 -43.35766730389903,-22.84322992350511,0 -43.35935594465653,-22.84684213214198,0 -43.36137988160067,-22.85030494172489,0 -43.36372372909691,-22.85359198580522,0 -43.3663696618643,-22.85667823438188,0 -43.36929755024471,-22.85954018480847,-7.081154781429788e-010 -43.37248511317188,-22.86215604110154,-7.081154781429788e-010 -43.37590808768307,-22.8645058802719,0 -43.37954041368531,-22.86657180439956,0 -43.3833544325668,-22.86833807728075,0 -43.38732109813351,-22.8697912445945,0 -43.39141019825227,-22.87092023666112,0 -43.39559058549587,-22.87171645300018,0 -43.39983041501295,-22.87217382803426,0 -43.4040973877874,-22.8722888774313,-1.416230956285958e-009 -43.40835899740854,-22.87206072472712,0 -43.41258277844459,-22.87149110802231,0 -43.41673655449927,-22.87058436670177,0 -43.42078868403405,-22.86934740827958,0 
+				"
+              }
+            },
+            {
+              "name": "25 - Grota Funda",
+              "styleUrl": "#inline53",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.6051137045461,-22.99781600611418,0 -43.60327418844283,-22.99096736206663,0 -43.60079348376428,-22.98429233086214,0 -43.59769055255281,-22.97784168399864,0 -43.59398907996397,-22.97166447914936,0 -43.5897172918961,-22.96580768788923,0 -43.58490773850425,-22.9603158394493,0 -43.57959704529522,-22.95523068317297,0 -43.57382563373324,-22.95059087220163,0 -43.56763741350152,-22.94643167075438,0 -43.56107944876379,-22.94278468718544,0 -43.5542016009527,-22.93967763480762,0 -43.54705615077273,-22.93713412226052,0 -43.53969740225028,-22.93517347498017,-7.081154781429788e-010 -43.53218127178495,-22.93381058909459,0 -43.52456486525969,-22.933055818828,0 -43.51690604634732,-22.93291489824727,0 -43.50926299921145,-22.93338889792992,0 -43.50169378883715,-22.93447421687416,0 -43.49425592224296,-22.93616260971077,-7.081154781429788e-010 -43.48700591381989,-22.93844124901559,0 -43.47999885801496,-22.94129282226154,0 -43.47328801252755,-22.94469566269247,0 -43.46692439511523,-22.9486239131493,-7.081154781429788e-010 -43.46095639701312,-22.95304772163388,-7.081154781429788e-010 -43.45542941585779,-22.95793346715885,0 -43.45038551087205,-22.96324401420523,0 -43.44586308291358,-22.96893899389362,0 -43.44189658181779,-22.97497510977319,-7.081154781429788e-010 -43.43851624327271,-22.98130646594466,0 -43.43574785725718,-22.98788491506219,-7.081154781429788e-010 -43.43361256984684,-22.99466042360499,0 -43.43212671995391,-23.00158145167393,0 -43.43130171231303,-23.00859534445287,0 -43.43114392775996,-23.01564873237989,0 -43.43165467157424,-23.02268793700005,0 -43.4328301603727,-23.02965937942135,0 -43.43466154774991,-23.03650998826759,0 -43.43713498856646,-23.04318760401837,-7.081154781429788e-010 -43.44023174148845,-23.04964137664596,0 -43.44392830908468,-23.05582215350274,0 -43.44819661449295,-23.06168285448051,-7.081154781429788e-010 -43.4530042133779,-23.06717883155362,-7.081154781429788e-010 -43.45831453962044,-23.07226820993245,-7.081154781429788e-010 -43.46408718290752,-23.07691220818917,0 -43.47027819613174,-23.08107543487605,0 -43.47684043026652,-23.08472615933378,0 -43.48372389415646,-23.0878365545842,0 -43.49087613645558,-23.09038291041591,0 -43.49824264676231,-23.09234581500073,0 -43.50576727283866,-23.09371030362324,-7.081154781429788e-010 -43.51339265066609,-23.09446597336063,0 -43.52106064398222,-23.09460706281589,-7.081154781429788e-010 -43.52871278986275,-23.09413249628033,0 -43.53629074686077,-23.09304589197934,-7.081154781429788e-010 -43.54373674219509,-23.09135553433731,0 -43.55099401448641,-23.0890743104783,-7.081154781429788e-010 -43.55800724857848,-23.08621961146011,0 -43.56472299904789,-23.08281319901429,0 -43.57109009910215,-23.07888103883409,0 -43.57706005168861,-23.07445310171292,0 -43.58258739978572,-23.06956313408479,0 -43.58763007302244,-23.06424839975519,0 -43.59214970796822,-23.05854939483192,0 -43.5961119396529,-23.0525095380703,0 -43.5994866621129,-23.04617483903414,0 -43.6022482560116,-23.03959354664014,0 -43.60437578164832,-23.03281578080026,0 -43.60585313594788,-23.02589315000014,0 -43.60666917230915,-23.0188783577538,0 -43.60681778248315,-23.0118248009529,0 -43.60629793994811,-23.00478616318347,0 -43.6051137045461,-22.99781600611418,0 
+				"
+              }
+            },
+            {
+              "name": "26 - Campo Grande",
+              "styleUrl": "#inline12",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.61608792835692,-22.96072479582808,-7.081154781429788e-010 -43.62133322078919,-22.95611535459502,0 -43.62612189812476,-22.95110235833902,0 -43.63041752770815,-22.94572400157995,0 -43.63418744516355,-22.94002125783041,0 -43.63740300212874,-22.9340375665159,0 -43.6400397829679,-22.92781850121656,0 -43.64207778885414,-22.92141142179033,-7.081154781429788e-010 -43.64350158787491,-22.91486511305647,0 -43.6443004300822,-22.9082294128159,0 -43.64446832668535,-22.90155483206033,0 -43.64400409286379,-22.89489217027522,0 -43.6429113539586,-22.88829212877268,0 -43.64119851508107,-22.88180492499812,0 -43.63887869445499,-22.87547991074045,0 -43.63596962108107,-22.86936519713918,0 -43.63249349757771,-22.86350728932362,0 -43.628476829309,-22.85795073344061,0 -43.62395022115737,-22.85273777872773,0 -43.61894814353224,-22.84790805717048,0 -43.6135086694273,-22.84349828314518,0 -43.60767318454511,-22.83954197529502,-7.081154781429788e-010 -43.60148607269789,-22.8360692027169,0 -43.59499437886725,-22.83310635735212,-7.081154781429788e-010 -43.58824745246093,-22.83067595427573,0 -43.58129657344244,-22.82879646137032,0 -43.57419456412683,-22.82748215964918,0 -43.56699538953482,-22.82674303526605,-7.081154781429788e-010 -43.55975374927575,-22.8265847040122,0 -43.552524663987,-22.82700836886042,0 -43.54536305939538,-22.82801081087093,0 -43.53832335108142,-22.82958441352605,-7.081154781429788e-010 -43.53145903302341,-22.83171722031387,0 -43.52482227297163,-22.83439302513371,-7.081154781429788e-010 -43.51846351765724,-22.83759149485335,0 -43.51243111077294,-22.84128832310848,0 -43.50677092657495,-22.84545541420256,-7.081154781429788e-010 -43.50152602184839,-22.85006109574009,0 -43.49673630885171,-22.85507035841073,0 -43.49243825170925,-22.86044512113762,0 -43.48866458855778,-22.86614451961086,-7.081154781429788e-010 -43.48544408157103,-22.87212521604925,0 -43.48280129678902,-22.87834172787012,0 -43.48075641546532,-22.8847467728014,0 -43.47932507841875,-22.89129162784071,0 -43.47851826463584,-22.89792649935662,0 -43.47834220511875,-22.90460090153775,0 -43.47879833271315,-22.91126404032445,0 -43.47988326838073,-22.91786519991126,-7.081154781429788e-010 -43.48158884410689,-22.92435412888049,-7.081154781429788e-010 -43.48390216235448,-22.93068142302432,0 -43.48680569169404,-22.93679890193032,0 -43.49027739795993,-22.94265997644711,0 -43.49429091000396,-22.94822000420949,0 -43.49881571884461,-22.9534366304888,0 -43.50381740874442,-22.95827011174095,0 -43.50925791849139,-22.96268361935325,0 -43.51509583091639,-22.96664352123929,0 -43.52128668844829,-22.970119639099,-7.081154781429788e-010 -43.52778333229527,-22.97308547934621,0 -43.53453626264599,-22.97551843590754,0 -43.54149401711015,-22.9773999633138,0 -43.54860356446537,-22.97871571873415,0 -43.55581071065079,-22.97945567184471,0 -43.56306051384343,-22.97961418167364,0 -43.5702977053784,-22.97919003982218,0 -43.57746711322388,-22.97818647972373,-7.081154781429788e-010 -43.58451408470064,-22.97661115186863,0 -43.59138490514239,-22.97447606518838,0 -43.59802720922696,-22.9717974950573,-7.081154781429788e-010 -43.60439038177061,-22.9685958586305,0 -43.61042594486575,-22.96489555849138,0 -43.61608792835692,-22.96072479582808,-7.081154781429788e-010 
+				"
+              }
+            },
+            {
+              "name": "27 - Sepetiba",
+              "open": "1",
+              "styleUrl": "#inline78",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.63989983409611,-22.99720382837174,0 -43.64295088643402,-23.00282579140075,0 -43.64652290670519,-23.00818150951422,-7.081154781429788e-010 -43.65058874733965,-23.01323018846765,0 -43.65511748909336,-23.01793336826847,0 -43.66007467561528,-23.02225521699018,0 -43.66542257536515,-23.02616280462865,0 -43.67112046889879,-23.02962635488113,0 -43.67712495933125,-23.03261947289616,0 -43.6833903035982,-23.03511934722639,-7.081154781429788e-010 -43.68986876196436,-23.03710692441455,0 -43.69651096307771,-23.03856705485365,0 -43.70326628173787,-23.0394886087855,0 -43.71008322644225,-23.03986456153276,0 -43.71690983369106,-23.03969204730007,0 -43.72369406597605,-23.03897238112399,0 -43.73038421034703,-23.0377110488007,0 -43.73692927444505,-23.03591766486984,0 -43.74327937691275,-23.03360589898265,-7.081154781429788e-010 -43.74938612913918,-23.03079337122877,0 -43.75520300536907,-23.02750151723807,0 -43.76068569830329,-23.02375542410862,0 -43.76579245743854,-23.01958363843822,0 -43.77048440753638,-23.01501794795235,-7.081154781429788e-010 -43.77472584477646,-23.01009313842476,0 -43.77848450833169,-23.00484672777581,0 -43.78173182530352,-22.99931867940795,0 -43.78444312717186,-22.9935510969944,0 -43.78659783614373,-22.98758790307619,0 -43.78817962002534,-22.98147450394333,0 -43.78917651449236,-22.97525744337562,0 -43.78958101189032,-22.96898404789965,-7.081154781429788e-010 -43.78939011595788,-22.96270206627669,-7.081154781429788e-010 -43.78860536213057,-22.9564593059755,0 -43.78723280334621,-22.95030326939988,-7.081154781429788e-010 -43.7852829615365,-22.94428079263729,-7.081154781429788e-010 -43.78277074524768,-22.93843768946941,0 -43.77971533408677,-22.93281840333948,0 -43.776140030936,-22.9274656699058,0 -43.7720720831144,-22.92242019272504,0 -43.76754247389239,-22.91772033450567,0 -43.76258568597928,-22.9134018262497,-7.081154781429788e-010 -43.75723943880455,-22.90949749646283,0 -43.75154440160028,-22.90603702245955,0 -43.7455438844638,-22.90304670562088,0 -43.73928350973316,-22.90054927228164,-7.081154781429788e-010 -43.73281086614681,-22.89856370173059,-7.081154781429788e-010 -43.72617514837746,-22.89710508260382,0 -43.71942678463194,-22.89618449873891,-7.081154781429788e-010 -43.71261705509067,-22.89580894533805,-7.081154781429788e-010 -43.70579770402372,-22.89598127606262,0 -43.69902054846317,-22.89670018145188,0 -43.69233708633596,-22.89796019882589,0 -43.68579810696391,-22.89975175359922,1.416230956285958e-009 -43.67945330682279,-22.9020612316989,0 -43.67335091341499,-22.90487108254876,-7.081154781429788e-010 -43.66753732005552,-22.90815995185554,0 -43.6620567342955,-22.91190284320947,-7.081154781429788e-010 -43.65695084261343,-22.91607130729721,0 -43.6522584938913,-22.9206336573179,-7.081154781429788e-010 -43.64801540406217,-22.92555520899617,0 -43.64425388416681,-22.93079854339963,0 -43.64100259389275,-22.93632379059583,0 -43.6382863224871,-22.94208893202352,-7.081154781429788e-010 -43.63612579873976,-22.94805011930955,-7.081154781429788e-010 -43.63453753152336,-22.95416200713422,0 -43.63353368215465,-22.96037809763783,0 -43.63312196960869,-22.96665109376863,0 -43.63330560937474,-22.97293325889914,0 -43.63408328649156,-22.97917677998486,0 -43.63544916304291,-22.98533413150607,0 -43.6373929201329,-22.99135843742147,0 -43.63989983409611,-22.99720382837174,0 
+				"
+              }
+            },
+            {
+              "name": "28 - Alto da Boa Vista",
+              "open": "1",
+              "styleUrl": "#inline16",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.316019510716,-22.97490812597357,-7.081154781429788e-010 -43.31673435802181,-22.97184181000855,0 -43.31715619307254,-22.96872979924041,0 -43.31728182543213,-22.96559578027313,0 -43.31711031951484,-22.96246360557349,-7.081154781429788e-010 -43.31664300108107,-22.95935711191894,-7.081154781429788e-010 -43.31588344652491,-22.95629993901518,0 -43.3148374550539,-22.95331534966277,-7.081154781429788e-010 -43.31351300399128,-22.95042605283916,0 -43.31192018755723,-22.94765403103856,0 -43.31007113961128,-22.94502037317873,0 -43.30797994095602,-22.94254511433984,0 -43.30566251191894,-22.94024708354814,0 -43.30313649103707,-22.93814376075455,0 -43.30042110077237,-22.93625114408862,0 -43.29753700128131,-22.934583628389,0 -43.29450613334929,-22.93315389592661,-7.081154781429788e-010 -43.29135155168018,-22.93197282014352,-7.081154781429788e-010 -43.28809724980149,-22.93104938313248,0 -43.28476797790658,-22.93039060747799,-7.081154781429788e-010 -43.28138905500676,-22.93000150297177,0 -43.2779861768072,-22.92988502860295,0 -43.27458522075171,-22.93004207010911,0 -43.27121204970176,-22.93047143325648,-7.081154781429788e-010 -43.26789231572506,-22.93116985290018,-7.081154781429788e-010 -43.26465126546835,-22.93213201775604,0 -43.26151354857719,-22.9333506106982,-7.081154781429788e-010 -43.25850303060413,-22.93481636427919,0 -43.2556426118134,-22.93651813105537,-7.081154781429788e-010 -43.25295405324835,-22.93844296818833,-7.081154781429788e-010 -43.25045781137425,-22.94057623568602,-7.081154781429788e-010 -43.24817288254749,-22.94290170754338,0 -43.24611665848972,-22.94540169494541,0 -43.24430479386562,-22.94805718060352,-7.081154781429788e-010 -43.24275108697381,-22.95084796321149,-7.081154781429788e-010 -43.24146737446391,-22.95375281093014,0 -43.24046344088911,-22.95674962274031,0 -43.23974694379349,-22.95981559644346,0 -43.23932335491803,-22.96292740203726,0 -43.23919591798783,-22.96606135915187,0 -43.23936562341955,-22.96919361719985,-7.081154781429788e-010 -43.23983120015959,-22.97230033687124,0 -43.24058912473431,-22.97535787159298,-7.081154781429788e-010 -43.24163364746228,-22.97834294757082,0 -43.24295683564731,-22.98123284104149,0 -43.24454863344106,-22.98400555138196,0 -43.24639693793493,-22.98663996875357,0 -43.24848769091577,-22.98911603499874,0 -43.25080498559769,-22.99141489655864,-7.081154781429788e-010 -43.25333118752605,-22.99351904823984,0 -43.25604706873789,-22.99541246672749,0 -43.25893195415961,-22.99708073281996,0 -43.26196387912577,-22.99851114144601,0 -43.26511975681504,-22.9996927986187,0 -43.26837555432098,-23.00061670458001,0 -43.27170647600634,-23.0012758224966,0 -43.27508715273172,-23.0016651321773,0 -43.27849183550283,-23.00178166839884,0 -43.28189459204484,-23.00162454354429,-7.081154781429788e-010 -43.28526950478935,-23.00119495437989,0 -43.2885908687481,-23.00049617291798,0 -43.29183338774813,-22.99953352143637,0 -43.29497236751684,-22.99831433184684,0 -43.29798390412984,-22.99684788972566,0 -43.30084506637201,-22.99514536343748,0 -43.30353407061065,-22.99321971889808,0 -43.30603044683895,-22.99108562063215,0 -43.30831519461827,-22.98875931988724,0 -43.31037092772807,-22.98625853066366,0 -43.31218200642089,-22.98360229461295,0 -43.31373465627826,-22.98081083584161,0 -43.31501707276804,-22.97790540673369,-7.081154781429788e-010 -43.316019510716,-22.97490812597357,-7.081154781429788e-010 
+				"
+              }
+            },
+            {
+              "name": "29 - Avenida Brasil/Mendanha",
+              "open": "1",
+              "styleUrl": "#inline63",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.49247655464875,-22.86084451872668,0 -43.49303560956134,-22.86472807207353,0 -43.49395991643969,-22.86855194614432,-7.081154781429788e-010 -43.49524246971934,-22.87228703271309,0 -43.49687353457897,-22.87590489705599,0 -43.49884072023077,-22.87937799461292,-7.081154781429788e-010 -43.5011290735326,-22.88267988093482,0 -43.50372119223117,-22.88578541330875,0 -43.50659735699094,-22.88867094251534,-7.081154781429788e-010 -43.50973568121712,-22.89131449324677,0 -43.5131122775401,-22.89369593179912,0 -43.51670143969709,-22.89579711974901,0 -43.52047583842439,-22.89760205243165,0 -43.52440672986153,-22.89909698115277,0 -43.52846417486914,-22.90027051819222,0 -43.53261726757403,-22.90111372378864,0 -43.53683437138115,-22.90162017443362,0 -43.54108336063198,-22.90178601194763,-7.081154781429788e-010 -43.54533186604305,-22.90160997295845,0 -43.54954752202772,-22.90109339855434,0 -43.5536982139896,-22.90024022403706,0 -43.55775232367547,-22.89905694885426,0 -43.56167897069187,-22.89755258694342,0 -43.56544824832027,-22.89573859787132,0 -43.56903145181183,-22.89362879930083,0 -43.57240129740335,-22.8912392614612,0 -43.57553213037048,-22.88858818443602,-7.081154781429788e-010 -43.578400120523,-22.88569575921542,0 -43.58098344364604,-22.88258401358318,0 -43.58326244750474,-22.87927664402527,-7.081154781429788e-010 -43.5852198011517,-22.87579883495273,-7.081154781429788e-010 -43.58684062640869,-22.87217706662785,0 -43.58811261053498,-22.86843891326793,-7.081154781429788e-010 -43.58902609924208,-22.86461283287396,0 -43.58957416936829,-22.86072795039364,0 -43.58975268068428,-22.85681383587636,0 -43.58956030646232,-22.85290027931442,0 -43.5889985426055,-22.84901706388727,0 -43.58807169529644,-22.8451937393355,0 -43.58678684728926,-22.84145939718817,0 -43.58515380312939,-22.83784244955036,-7.081154781429788e-010 -43.58318501374468,-22.83437041312855,0 -43.5808954810059,-22.8310697001298,-1.416230956285958e-009 -43.57830264300299,-22.82796541761622,0 -43.57542624092733,-22.82508117683084,0 -43.57228816858449,-22.82243891393344,0 -43.56891230569087,-22.8200587234978,0 -43.56532433622443,-22.81795870602382,0 -43.56155155320967,-22.81615483061199,0 -43.5576226514145,-22.81466081383189,0 -43.55356750952398,-22.81348801569477,0 -43.54941696343224,-22.81264535351079,0 -43.54520257235671,-22.81213923427703,0 -43.54095637953085,-22.81197350610323,0 -43.53671066927006,-22.81214942903934,0 -43.53249772223165,-22.81266566552336,-7.081154781429788e-010 -43.52834957070194,-22.81351829052104,0 -43.52429775574437,-22.81470082128166,0 -43.5203730880282,-22.81620426648665,0 -43.5166054141319,-22.8180171944229,-7.081154781429788e-010 -43.51302339007577,-22.82012581966965,0 -43.50965426378657,-22.82251410764856,0 -43.506523668133,-22.8251638962524,0 -43.50365542609485,-22.82805503363909,0 -43.50107136954045,-22.83116553115502,0 -43.49879117298971,-22.83447173023761,0 -43.49683220362942,-22.83794848204008,0 -43.49520938873051,-22.84156933842471,0 -43.49393510148794,-22.84530675288302,0 -43.4930190661692,-22.84913228986513,-7.081154781429788e-010 -43.4924682833134,-22.85301684093462,-7.081154781429788e-010 -43.49228697557473,-22.85693084611183,0 -43.49247655464875,-22.86084451872668,0 
+				"
+              }
+            },
+            {
+              "name": "30 - Recreio dos Bandeirantes",
+              "open": "1",
+              "styleUrl": "#inline24",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.45479154770882,-22.97644798011529,0 -43.45156281721093,-22.97541596807833,0 -43.44824871760724,-22.97464689354727,0 -43.44487445291374,-22.97414660511615,0 -43.44146568361052,-22.97391890728348,0 -43.43804833194771,-22.97396553158861,-7.081154781429788e-010 -43.43464838528443,-22.97428612347545,0 -43.43129169893844,-22.97487824498222,0 -43.42800380002801,-22.97573739323722,0 -43.42480969378017,-22.97685703462138,0 -43.4217336737618,-22.97822865434099,0 -43.41879913746161,-22.97984182103786,0 -43.41602840861211,-22.98168426595109,0 -43.41344256759236,-22.98374197603457,-7.081154781429788e-010 -43.41106129119256,-22.98599930032973,0 -43.40890270295436,-22.98843906879183,0 -43.40698323522277,-22.99104272267435,0 -43.40531750396016,-22.993790455488,-7.081154781429788e-010 -43.40391819727864,-22.99666136347008,-7.081154781429788e-010 -43.40279597854631,-22.99963360442732,0 -43.40195940481453,-23.00268456375072,-7.081154781429788e-010 -43.40141486119985,-23.00579102634561,0 -43.40116651173459,-23.00892935317399,0 -43.40121626707743,-23.01207566106964,0 -43.40156376934731,-23.01520600446052,0 -43.40220639421557,-23.01829655761668,-7.081154781429788e-010 -43.40313927025917,-23.0213237960364,0 -43.40435531544678,-23.02426467558862,-7.081154781429788e-010 -43.40584529049807,-23.02709680804472,0 -43.4075978687262,-23.02979863165951,-7.081154781429788e-010 -43.40959972184688,-23.03234957549709,0 -43.41183562111263,-23.03473021624412,-7.081154781429788e-010 -43.41428855301209,-23.03692242630941,0 -43.41693984865983,-23.03890951207401,0 -43.41976932589498,-23.04067634123121,0 -43.42275544300662,-23.04220945823808,-7.081154781429788e-010 -43.42587546291236,-23.04349718699148,-7.081154781429788e-010 -43.42910562653327,-23.04452971993858,-7.081154781429788e-010 -43.43242133403593,-23.04529919293642,0 -43.43579733254916,-23.04579974528371,0 -43.43920790891157,-23.04602756446298,0 -43.44262708596642,-23.04598091524781,0 -43.44602882089092,-23.04566015295118,-7.081154781429788e-010 -43.44938720403187,-23.04506772071269,-7.081154781429788e-010 -43.4526766567147,-23.04420813084548,0 -43.45587212650177,-23.04308793038681,0 -43.45894927839577,-23.04171565111757,0 -43.46188468051653,-23.04010174443604,0 -43.46465598282398,-23.03825850158724,0 -43.46724208751495,-23.03619995986212,0 -43.46962330978773,-23.03394179548826,0 -43.47178152774534,-23.03150120403578,0 -43.4737003202936,-23.02889676925736,-7.081154781429788e-010 -43.47536509198528,-23.02614832136938,0 -43.47676318386436,-23.02327678586169,0 -43.47788396947389,-23.02030402399461,0 -43.47871893530723,-23.01725266620471,0 -43.47926174510299,-23.01414593969383,0 -43.47950828751,-23.01100749151895,0 -43.47945670677611,-23.00786120853331,0 -43.4791074162459,-23.00473103555207,0 -43.47846309458341,-23.0016407931274,0 -43.47752866476786,-22.9986139963196,-7.081154781429788e-010 -43.47631125604111,-22.99567367584158,0 -43.47482014911398,-22.9928422029348,0 -43.47306670506474,-22.99014111930437,0 -43.47106427848529,-22.98759097340218,-7.081154781429788e-010 -43.46882811554738,-22.98521116429669,-7.081154781429788e-010 -43.46637523777397,-22.98301979431012,-7.081154781429788e-010 -43.46372431240592,-22.98103353153602,0 -43.46089551035338,-22.97926748327497,0 -43.45791035281225,-22.97773508134273,-7.081154781429788e-010 -43.45479154770882,-22.97644798011529,0 
+				"
+              }
+            },
+            {
+              "name": "31 - Laranjeiras",
+              "open": "1",
+              "styleUrl": "#inline15",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.17426761634932,-22.90641311482939,0 -43.17110280507729,-22.90760101583605,0 -43.16806237071891,-22.90903841624347,-7.081154781429788e-010 -43.16516944073824,-22.91071438430931,-7.081154781429788e-010 -43.1624460231017,-22.91261617349551,-7.081154781429788e-010 -43.15991283905714,-22.91472931921657,-7.081154781429788e-010 -43.15758916560328,-22.91703774864545,0 -43.15549268884371,-22.91952390274968,0 -43.15363936933893,-22.92216886963751,0 -43.15204332048287,-22.92495252820828,0 -43.15071670083423,-22.92785370102209,0 -43.14966962122925,-22.93085031523325,0 -43.14891006739418,-22.93391957037026,-7.081154781429788e-010 -43.14844383865903,-22.9370381116915,0 -43.14827450325492,-22.94018220780264,0 -43.14840337055194,-22.9433279311877,0 -43.14882948046771,-22.94645134028237,0 -43.14954961014572,-22.94952866170488,0 -43.1505582978721,-22.95253647125661,0 -43.15184788406732,-22.95545187231333,0 -43.15340856905823,-22.95825267024528,-7.081154781429788e-010 -43.15522848720689,-22.96091754153415,0 -43.15729379684574,-22.96342619629348,0 -43.15958878534607,-22.96575953294839,-7.081154781429788e-010 -43.16209598852839,-22.96789978388993,0 -43.16479632351148,-22.96983065098643,0 -43.16766923399101,-22.97153742991215,0 -43.17069284684046,-22.97300712233795,0 -43.17384413883834,-22.97422853512166,0 -43.17709911224447,-22.97519236573512,0 -43.18043297787846,-22.97589127327026,0 -43.18382034429365,-22.97631993447783,0 -43.18723541159115,-22.97647508440656,0 -43.19065216838128,-22.97635554133011,0 -43.1940445903753,-22.97596221576941,0 -43.19738683907632,-22.97529810354094,-7.081154781429788e-010 -43.20065345903848,-22.97436826288444,0 -43.20381957217391,-22.97317977584654,0 -43.2068610676117,-22.97174169421762,-7.081154781429788e-010 -43.2097547856474,-22.97006497043859,0 -43.21247869436996,-22.96816237400951,-7.081154781429788e-010 -43.21501205761022,-22.96604839404353,0 -43.21733559292465,-22.9637391287158,0 -43.21943161840706,-22.96125216245717,0 -43.22128418720881,-22.95860643183628,0 -43.2228792087457,-22.95582208115942,0 -43.22420455567366,-22.95292030889576,-7.081154781429788e-010 -43.22525015582738,-22.94992320610497,-7.081154781429788e-010 -43.22600806843303,-22.94685358810378,0 -43.22647254402844,-22.94373482065922,0 -43.22664006765078,-22.94059064203629,0 -43.22650938497991,-22.93744498225802,0 -43.22608151125744,-22.93432178095606,-7.081154781429788e-010 -43.22535972293221,-22.93124480519854,-7.081154781429788e-010 -43.22434953211518,-22.9282374686812,-7.081154781429788e-010 -43.22305864405656,-22.92532265365542,0 -43.22149689798595,-22.92252253694466,0 -43.21967619178165,-22.91985842136871,0 -43.21761039105593,-22.91735057385211,0 -43.21531522335897,-22.91501807144205,0 -43.21280815831511,-22.91287865639941,0 -43.2101082746083,-22.91094860145745,0 -43.20723611483118,-22.90924258626504,0 -43.20421352930054,-22.90777358594563,-7.081154781429788e-010 -43.20106351002332,-22.90655277261208,-7.081154781429788e-010 -43.19781001606875,-22.90558943057858,0 -43.19447779166482,-22.90489088590786,0 -43.19109217839019,-22.90446245082378,0 -43.18767892287544,-22.90430738340691,0 -43.18426398146009,-22.90442686287652,0 -43.18087332327364,-22.90481998064434,0 -43.17753273322047,-22.90548374720759,0 -43.17426761634932,-22.90641311482939,0 
+				"
+              }
+            },
+            {
+              "name": "32 - São Cristóvão",
+              "open": "1",
+              "styleUrl": "#inline8",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.21891377530515,-22.86052682514589,0 -43.21551297475472,-22.86088666201271,0 -43.21215912258528,-22.86151817650808,-7.081154781429788e-010 -43.20887772456791,-22.86241656617001,0 -43.20569373675269,-22.86357499892302,0 -43.20263137606498,-22.86498466491645,-7.081154781429788e-010 -43.19971393645958,-22.86663484337501,0 -43.19696361201799,-22.86851298395898,0 -43.19440132832369,-22.87060480202169,0 -43.19204658338984,-22.87289438704718,0 -43.18991729934492,-22.87536432345122,-7.081154781429788e-010 -43.18802968600199,-22.87799582283477,0 -43.18639811735145,-22.88076886669262,0 -43.18503502192112,-22.88366235849908,0 -43.18395078784536,-22.8866542840218,0 -43.18315368337634,-22.88972187865089,-7.081154781429788e-010 -43.18264979345508,-22.89284180047633,0 -43.18244297284022,-22.8959903078018,0 -43.18253481616842,-22.89914343974796,0 -43.18292464519229,-22.90227719857332,0 -43.18360951331215,-22.90536773232636,0 -43.18458422738611,-22.90839151643818,0 -43.18584138667143,-22.9113255328719,0 -43.18737143861829,-22.91414744546189,0 -43.18916275110767,-22.91683577010364,0 -43.19120170059772,-22.91937003849294,0 -43.1934727755193,-22.92173095416128,0 -43.19595869414284,-22.92390053961206,-7.081154781429788e-010 -43.1986405360249,-22.92586227342915,0 -43.2014978860369,-22.92760121630587,0 -43.20450898987847,-22.92910412502597,0 -43.20765091988807,-22.93035955352079,-7.081154781429788e-010 -43.21089974988099,-22.93135794022517,-7.081154781429788e-010 -43.21423073767403,-22.93209168105981,-7.081154781429788e-010 -43.21761851389435,-22.9325551874782,0 -43.22103727562018,-22.9327449291309,0 -43.22446098336253,-22.93265946081857,0 -43.22786355987002,-22.9322994335258,0 -43.23121908922492,-22.93166758945093,0 -43.23450201469569,-22.93076874107008,-7.081154781429788e-010 -43.23768733382134,-22.92960973439669,0 -43.24075078922533,-22.92819939671972,0 -43.24366905369044,-22.92654846922323,0 -43.24641990807226,-22.9246695250061,0 -43.24898241068541,-22.92257687313298,0 -43.25133705686498,-22.92028644945474,0 -43.25346592748319,-22.91781569503768,0 -43.25535282528875,-22.91518342313569,0 -43.25698339803252,-22.91240967572659,0 -43.25834524744685,-22.90951557071312,0 -43.25942802325692,-22.90652314095956,-7.081154781429788e-010 -43.26022350151922,-22.90345516639661,0 -43.2607256467042,-22.90033500047835,0 -43.26093065706608,-22.89718639231776,0 -43.2608369929718,-22.89403330585802,-7.081154781429788e-010 -43.26044538799175,-22.89089973745847,0 -43.25975884268709,-22.88780953328469,0 -43.25878260116011,-22.88478620789148,-7.081154781429788e-010 -43.25752411056441,-22.88185276537781,0 -43.25599296390102,-22.87903152447104,-7.081154781429788e-010 -43.25420082655133,-22.87634394886697,0 -43.25216134712021,-22.87381048411067,0 -43.24989005327884,-22.87145040225266,0 -43.2474042334086,-22.86928165545467,0 -43.24472280495237,-22.86732073965075,0 -43.24186617047708,-22.8655825692927,0 -43.23885606254186,-22.86408036412414,0 -43.23571537854821,-22.86282554883668,-7.081154781429788e-010 -43.23246800682124,-22.86182766636344,0 -43.22913864523549,-22.86109430546294,0 -43.22575261375229,-22.86063104313753,0 -43.22233566228037,-22.86044140232003,0 -43.21891377530515,-22.86052682514589,0 
+				"
+              }
+            },
+            {
+              "name": "33 - Tijuca/Muda",
+              "open": "1",
+              "styleUrl": "#inline59",
+              "LineString": {
+                "tessellate": "1",
+                "coordinates": "
+					-43.24435224993241,-22.89638152860082,0 -43.24093120244183,-22.89642575965124,0 -43.23752734519811,-22.89674442122192,1.416230956285958e-009 -43.23416656329584,-22.89733509002636,0 -43.23087441503131,-22.89819327423318,0 -43.22767593797329,-22.8993124475451,-7.081154781429788e-010 -43.22459545894795,-22.90068409871648,0 -43.2216564093678,-22.90229779613686,-7.081154781429788e-010 -43.21888114729598,-22.90414126699494,0 -43.2162907875881,-22.90620049042753,-7.081154781429788e-010 -43.21390504139528,-22.90845980395177,0 -43.2117420662438,-22.91090202237946,0 -43.20981832782942,-22.91350856831689,0 -43.20814847457861,-22.91625961326571,-7.081154781429788e-010 -43.20674522593503,-22.91913422825983,0 -43.20561927522856,-22.92211054289989,-7.081154781429788e-010 -43.20477920787566,-22.9251659115826,0 -43.20423143554664,-22.92827708566647,0 -43.20398014681521,-22.931420390269,-7.081154781429788e-010 -43.20402727468316,-22.9345719043543,0 -43.20437248124513,-22.93770764274328,0 -43.20501315962926,-22.94080373866243,0 -43.20594445321807,-22.94383662544195,0 -43.20715929202217,-22.94678321597855,0 -43.20864844594781,-22.9496210785939,0 -43.21040059456945,-22.95232860794577,0 -43.2124024128907,-22.95488518968532,0 -43.21463867245304,-22.95727135760052,0 -43.2170923570322,-22.95946894204175,0 -43.21974479204766,-22.961461208492,0 -43.22257578670373,-22.96323298521785,0 -43.22556378777944,-22.96477077902109,-7.081154781429788e-010 -43.22868604389357,-22.96606287820131,0 -43.23191877898725,-22.96709944193753,0 -43.23523737369406,-22.96787257540104,0 -43.2386165532041,-22.96837639002117,0 -43.2420305801778,-22.96860704843973,-7.081154781429788e-010 -43.24545345122343,-22.96856279380774,0 -43.24885909542564,-22.96824396319881,0 -43.25222157339398,-22.96765298503557,0 -43.25551527529803,-22.96679436054916,0 -43.25871511636242,-22.96567462941449,0 -43.26179672831636,-22.96430231982641,0 -43.26473664532387,-22.96268788340106,-7.081154781429788e-010 -43.26751248296548,-22.96084361540402,0 -43.27010310889726,-22.95878356091916,0 -43.27248880387902,-22.95652340768046,0 -43.27465141194056,-22.95408036639039,0 -43.27657447853999,-22.95147303944496,0 -43.27824337566364,-22.94872127907299,0 -43.27964541291934,-22.94584603597836,0 -43.28076993378458,-22.94286919964492,0 -43.28160839628788,-22.93981343152732,0 -43.28215443752148,-22.93670199240371,0 -43.28240392151009,-22.93355856520964,-7.081154781429788e-010 -43.28235497008807,-22.93040707470588,0 -43.2820079765685,-22.92727150535503,-7.081154781429788e-010 -43.28136560211902,-22.92417571879444,0 -43.28043275489115,-22.92114327229425,-7.081154781429788e-010 -43.2792165520808,-22.91819723958006,0 -43.27772626522634,-22.91536003538109,0 -43.2759732491768,-22.91265324503393,0 -43.27397085528495,-22.91009746043313,0 -43.27173432949778,-22.90771212357013,0 -43.26928069612873,-22.90551537884337,0 -43.26662862820229,-22.90352393525561,0 -43.26379830536046,-22.901752939538,0 -43.26081126041145,-22.9002158611582,0 -43.25769021568513,-22.89892439007881,0 -43.25445891043289,-22.89788834803629,0 -43.25114192057622,-22.89711561400792,0 -43.24776447216237,-22.89661206442773,0 -43.24435224993241,-22.89638152860082,0 
+				"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

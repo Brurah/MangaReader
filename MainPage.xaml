@@ -53,6 +53,8 @@
                             <ColumnDefinition Width="106*"/>
                             <ColumnDefinition Width="355*"/>
                         </Grid.ColumnDefinitions>
+                        
+                        <Button Content="Teste Parse" Click="Button_Click_1"/>
 
                         <Image Name="imgteste" Width="200" Margin="20,10,0,0" Stretch="Uniform" VerticalAlignment="Top" HorizontalAlignment="Left" Source="{Binding Info.EndImagem}" Grid.RowSpan="9"/>
                         <TextBlock Name="txbTitulo" Grid.Column="1" Margin="50,0,0,0" HorizontalAlignment="Left" Text="{Binding Info.Titulo}" VerticalAlignment="Center"  FontSize="25" FontWeight="Bold"/>
